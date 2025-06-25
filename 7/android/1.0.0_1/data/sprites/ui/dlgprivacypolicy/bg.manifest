@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2061829990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83990379901cb3a97fca99a35b12b916
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 83990379901cb3a97fca99a35b12b916
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res_AssetBundle/Sprites/UI/DlgPrivacyPolicy/bg.png
+Dependencies: []

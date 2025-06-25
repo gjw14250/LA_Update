@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3734584182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 450714d1c8a736e62f23c870fc308731
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b05a98f5934af500d13e41b5bbc6f19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 450714d1c8a736e62f23c870fc308731
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Res_AssetBundle/Spines/Login_AB/Spine_Login.png
+- Assets/Res_AssetBundle/Spines/Login_AB/Spine_Login.skel.bytes
+- Assets/Res_AssetBundle/Spines/Login_AB/Spine_Login_Material.mat
+- Assets/Res_AssetBundle/Spines/Login_AB/Spine_Login.atlas.txt
+- Assets/Res_AssetBundle/Spines/Login_AB/Spine_Login_Atlas.asset
+- Assets/Res_AssetBundle/Spines/Login_AB/Spine_Login_SkeletonData.asset
+Dependencies:
+- E:/UnityProjects/LA_ECS/LA/Assets/StreamingAssets/data/shader

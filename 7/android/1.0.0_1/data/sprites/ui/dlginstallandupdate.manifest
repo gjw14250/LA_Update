@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3430877133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 625be124c37d0d281e27a7699ebe08d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 625be124c37d0d281e27a7699ebe08d7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res_AssetBundle/Sprites/UI/DlgInstallAndUpdate_AB/bg_10.png
+- Assets/Res_AssetBundle/Sprites/UI/DlgInstallAndUpdate_AB/bg_41.png
+- Assets/Res_AssetBundle/Sprites/UI/DlgInstallAndUpdate_AB/slider.png
+Dependencies: []

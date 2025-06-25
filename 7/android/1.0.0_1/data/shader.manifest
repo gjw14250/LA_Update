@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3477707008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ddb5db16911615e5a47f846302e873f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7ddb5db16911615e5a47f846302e873f
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res_AssetBundle/Shader_AB/UISpriteGray.shader
+- Assets/Res_AssetBundle/Shader_AB/UISpriteWhite.shader
+- Assets/Res_AssetBundle/Shader_AB/Spine-Skeleton-OutlineOnly-URP.shader
+- Assets/Res_AssetBundle/Shader_AB/Spine-Skeleton-URP-2D.shader
+- Assets/Res_AssetBundle/Shader_AB/Blur.shader
+Dependencies: []

@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 4007797040
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sprites/ui/common/btn
+      Dependencies: {}
+    Info_1:
+      Name: sprites/ui/common/bg256
+      Dependencies: {}
+    Info_2:
+      Name: sprites/ui/common/bgscroll
+      Dependencies: {}
+    Info_3:
+      Name: sprites/ui/common/heroavatar
+      Dependencies: {}
+    Info_4:
+      Name: sprites/ui/common/bufficon
+      Dependencies: {}
+    Info_5:
+      Name: sprites/ui/common/iconattribute
+      Dependencies: {}
+    Info_6:
+      Name: sprites/ui/common/bg512
+      Dependencies: {}
+    Info_7:
+      Name: sprites/ui/common/icon
+      Dependencies: {}
+    Info_8:
+      Name: sprites/ui/common/mechaskillicon
+      Dependencies: {}
+    Info_9:
+      Name: sprites/ui/common/iconwatermark
+      Dependencies: {}
+    Info_10:
+      Name: sprites/ui/common/widthbg
+      Dependencies: {}
+    Info_11:
+      Name: sprites/ui/common/iconmagic
+      Dependencies: {}
+    Info_12:
+      Name: sprites/ui/common/bigbg
+      Dependencies: {}
+    Info_13:
+      Name: audio
+      Dependencies: {}
+    Info_14:
+      Name: fonts/artfont
+      Dependencies: {}
+    Info_15:
+      Name: fonts/commontmp
+      Dependencies:
+        Dependency_0: fonts/commonttf
+    Info_16:
+      Name: fonts/commonttf
+      Dependencies: {}
+    Info_17:
+      Name: fonts/number
+      Dependencies: {}
+    Info_18:
+      Name: material
+      Dependencies:
+        Dependency_0: shader
+    Info_19:
+      Name: shader
+      Dependencies: {}
+    Info_20:
+      Name: spines/login
+      Dependencies:
+        Dependency_0: shader
+    Info_21:
+      Name: sprites/ui/dlginstallandupdate
+      Dependencies: {}
+    Info_22:
+      Name: sprites/ui/dlglogin
+      Dependencies: {}
+    Info_23:
+      Name: sprites/ui/dlgprivacypolicy/bg
+      Dependencies: {}
+    Info_24:
+      Name: ui/statelogin
+      Dependencies:
+        Dependency_0: fonts/commontmp
+        Dependency_1: fonts/commonttf
+        Dependency_2: sprites/ui/dlginstallandupdate
+        Dependency_3: sprites/ui/dlglogin
+        Dependency_4: sprites/ui/dlgprivacypolicy/bg
+    Info_25:
+      Name: ui/stateupdate
+      Dependencies:
+        Dependency_0: fonts/number
+        Dependency_1: sprites/ui/dlginstallandupdate

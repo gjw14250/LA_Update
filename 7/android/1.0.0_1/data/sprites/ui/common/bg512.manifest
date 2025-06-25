@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2714621394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63fd6455cb0dac7c1423ced46bd896cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 63fd6455cb0dac7c1423ced46bd896cc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res_AssetBundle/Sprites/UI/Common/Bg512_AB/bg_avatar_3.png
+- Assets/Res_AssetBundle/Sprites/UI/Common/Bg512_AB/bg_avatar_2.png
+- Assets/Res_AssetBundle/Sprites/UI/Common/Bg512_AB/bg_avatar_6.png
+- Assets/Res_AssetBundle/Sprites/UI/Common/Bg512_AB/bg_avatar_4.png
+Dependencies: []
