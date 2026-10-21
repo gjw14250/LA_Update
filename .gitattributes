@@ -1,6 +1,5 @@
 * -text
 *.md text eol=lf
 *.html text eol=lf
-*.json text eol=lf
 .gitattributes text eol=lf
 .nojekyll text eol=lf
