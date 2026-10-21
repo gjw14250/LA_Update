@@ -1,0 +1,17 @@
+Bullet_Hero_402.png
+	size: 664, 302
+boss_xiaochou_vfx/sdt_02
+	bounds: 0, 0, 64, 256
+	rotate: 90
+boss_xiaochou_vfx/sdt_03
+	bounds: 258, 0, 64, 256
+	rotate: 90
+boss_xiaochou_vfx/sdt_04
+	bounds: 600, 46, 64, 256
+common/light
+	bounds: 508, 212, 90, 90
+common/light_bullet
+	bounds: 508, 120, 89, 90
+hero_205/lvtiaotiao
+	bounds: 0, 66, 236, 506
+	rotate: 90

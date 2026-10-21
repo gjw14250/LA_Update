@@ -1,0 +1,44 @@
+UI_muji.png
+	size: 182, 263
+body
+	bounds: 0, 5, 66, 60
+cb_1
+	bounds: 125, 43, 29, 22
+cb_2
+	bounds: 67, 39, 29, 26
+fire_R_1
+	bounds: 155, 43, 27, 22
+	offsets: 1, 1, 29, 24
+fire_R_2
+	bounds: 125, 22, 20, 25
+	offsets: 1, 1, 22, 27
+	rotate: 90
+fire_R_3
+	bounds: 97, 39, 27, 26
+	offsets: 1, 1, 29, 28
+jg
+	bounds: 67, 21, 22, 17
+	offsets: 1, 1, 24, 19
+pp1
+	bounds: 108, 8, 14, 10
+	offsets: 1, 1, 16, 12
+	rotate: 90
+pp2
+	bounds: 89, 10, 5, 6
+	offsets: 1, 1, 7, 8
+pp3
+	bounds: 67, 0, 20, 15
+	offsets: 1, 1, 22, 17
+	rotate: 90
+xiananjian
+	bounds: 83, 9, 11, 5
+	offsets: 1, 1, 13, 7
+	rotate: 90
+yanjin
+	bounds: 108, 23, 15, 15
+	offsets: 1, 1, 17, 17
+yj
+	bounds: 0, 66, 180, 197
+zuiba
+	bounds: 90, 17, 21, 17
+	rotate: 90

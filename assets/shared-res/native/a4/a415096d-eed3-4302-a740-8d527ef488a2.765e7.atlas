@@ -1,0 +1,59 @@
+UI_tanchuang.png
+	size: 1420, 548
+eu_01
+	bounds: 1292, 97, 128, 128
+eu_04
+	bounds: 1292, 13, 83, 83
+	offsets: 24, 21, 128, 128
+tc_00000
+	bounds: 0, 226, 322, 112
+	rotate: 90
+tc_00001
+	bounds: 0, 113, 322, 112
+tc_00002
+	bounds: 0, 0, 322, 112
+tc_00003
+	bounds: 113, 226, 322, 112
+	rotate: 90
+tc_00004
+	bounds: 226, 226, 322, 112
+	rotate: 90
+tc_00005
+	bounds: 323, 113, 322, 112
+tc_00006
+	bounds: 323, 0, 322, 112
+tc_00007
+	bounds: 339, 226, 322, 112
+	rotate: 90
+tc_00008
+	bounds: 452, 226, 322, 112
+	rotate: 90
+tc_00009
+	bounds: 565, 226, 322, 112
+	rotate: 90
+tc_00010
+	bounds: 646, 113, 322, 112
+tc_00011
+	bounds: 646, 0, 322, 112
+tc_00012
+	bounds: 678, 226, 322, 112
+	rotate: 90
+tc_00013
+	bounds: 791, 226, 322, 112
+	rotate: 90
+tc_00014
+	bounds: 904, 226, 322, 112
+	rotate: 90
+tc_00015
+	bounds: 969, 113, 322, 112
+tc_00016
+	bounds: 969, 0, 322, 112
+tc_00017
+	bounds: 1292, 226, 322, 112
+	rotate: 90
+tc_00018
+	bounds: 1017, 226, 322, 112
+	rotate: 90
+tc_00019
+	bounds: 1130, 226, 322, 112
+	rotate: 90

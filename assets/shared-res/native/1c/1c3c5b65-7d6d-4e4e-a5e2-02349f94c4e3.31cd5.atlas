@@ -1,0 +1,17 @@
+NPC.png
+size:123,79
+eye
+bounds:104,40,17,17
+hg
+bounds:76,40,39,26
+rotate:90
+ht
+bounds:76,0,21,38
+jsz
+bounds:0,3,76,74
+rotate:90
+zuiba1
+bounds:99,15,17,23
+zuiba2
+bounds:104,59,20,19
+rotate:90

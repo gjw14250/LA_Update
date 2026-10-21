@@ -1,0 +1,16 @@
+UI_up_attack.png
+	size: 658, 358
+eu_01
+	bounds: 392, 133, 128, 128
+eu_02
+	bounds: 521, 133, 128, 128
+eu_03
+	bounds: 392, 4, 128, 128
+eu_04
+	bounds: 521, 4, 128, 128
+up
+	bounds: 0, 0, 358, 391
+	rotate: 90
+up2
+	bounds: 392, 262, 96, 266
+	rotate: 90

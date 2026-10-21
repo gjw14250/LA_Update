@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>LA 资源站点</title>
+  <style>
+    :root{color-scheme:light dark;font:16px/1.65 system-ui,sans-serif}body{max-width:960px;margin:48px auto;padding:0 24px}h1{margin-bottom:8px}a{color:#368bd6}code{overflow-wrap:anywhere}table{width:100%;border-collapse:collapse;margin-top:24px}th,td{text-align:left;padding:10px 8px;border-bottom:1px solid #8885}caption{text-align:left;font-weight:600;margin:16px 0}footer{margin:32px 0;color:#888}@media(max-width:600px){body{margin-top:24px}th:nth-child(3),td:nth-child(3){display:none}}
+  </style>
+</head>
+<body>
+  <h1>LA 资源站点</h1>
+  <p>这里提供游戏静态资源，游戏试玩入口尚未配置。</p>
+  <p id="summary">正在读取资源清单……</p>
+  <p><a href="resource-manifest.json">下载完整清单和 SHA-256 校验值</a> · <a href="https://github.com/gjw14250/LA_Update">查看资源仓库</a></p>
+  <p>资源根地址：<code id="base"></code></p>
+  <table><caption>已发布的资源 Bundle</caption><thead><tr><th>名称 / 配置文件</th><th>版本</th><th>文件数</th><th>大小</th></tr></thead><tbody id="bundles"></tbody></table>
+  <footer>Cocos Creator 3.8.7 · 资源公开可访问 · 接入游戏时需使用匹配的客户端和独立后端</footer>
+  <script>
+    document.querySelector('#base').textContent=new URL('assets/',location.href).href;
+    fetch('resource-manifest.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(m=>{
+      document.querySelector('#summary').textContent=Object.keys(m.bundles).length+' 个 Bundle，'+m.fileCount.toLocaleString()+' 个文件，共 '+(m.totalBytes/1048576).toFixed(1)+' MiB。';
+      for(const [name,bundle] of Object.entries(m.bundles)){
+        const tr=document.createElement('tr'),first=document.createElement('td'),link=document.createElement('a');
+        link.href=bundle.config;link.textContent=name;first.append(link);tr.append(first);
+        for(const value of [bundle.version,bundle.fileCount,(bundle.bytes/1048576).toFixed(1)+' MiB']){const td=document.createElement('td');td.textContent=value;tr.append(td)}
+        document.querySelector('#bundles').append(tr);
+      }
+    }).catch(e=>{document.querySelector('#summary').textContent='资源清单加载失败：'+e.message});
+  </script>
+</body>
+</html>

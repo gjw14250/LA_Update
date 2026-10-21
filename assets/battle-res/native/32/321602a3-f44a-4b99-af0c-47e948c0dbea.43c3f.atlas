@@ -1,0 +1,55 @@
+Spine_Monster_1010101.png
+	size: 426, 64
+公用/jl1
+	bounds: 0, 0, 64, 64
+普通僵尸/jl1
+	bounds: 0, 0, 64, 64
+公用/jl2
+	bounds: 65, 0, 64, 64
+普通僵尸/jl2
+	bounds: 65, 0, 64, 64
+公用/jl3
+	bounds: 130, 0, 64, 64
+普通僵尸/jl3
+	bounds: 130, 0, 64, 64
+公用/jl4
+	bounds: 195, 0, 64, 64
+普通僵尸/jl4
+	bounds: 195, 0, 64, 64
+公用/jl5
+	bounds: 260, 0, 64, 64
+普通僵尸/jl5
+	bounds: 260, 0, 64, 64
+公用/mech_shadow
+	bounds: 325, 34, 86, 30
+普通僵尸/arm_L_throw
+	bounds: 412, 47, 14, 17
+普通僵尸/body
+	bounds: 370, 13, 20, 12
+	rotate: 90
+普通僵尸/foot_L
+	bounds: 383, 28, 9, 5
+	offsets: 1, 1, 11, 7
+普通僵尸/foot_R
+	bounds: 361, 11, 8, 7
+	offsets: 1, 1, 10, 9
+	rotate: 90
+普通僵尸/leg_L
+	bounds: 383, 20, 8, 7
+	offsets: 1, 1, 10, 9
+普通僵尸/leg_R
+	bounds: 353, 10, 9, 7
+	offsets: 1, 1, 11, 9
+	rotate: 90
+普通僵尸/tfffftt
+	bounds: 325, 8, 27, 25
+普通僵尸/yfff
+	bounds: 412, 28, 18, 13
+	rotate: 90
+普通僵尸/zb
+	bounds: 392, 18, 9, 4
+	offsets: 1, 1, 11, 6
+	rotate: 90
+普通僵尸/zssvv
+	bounds: 353, 20, 13, 16
+	rotate: 90

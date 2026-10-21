@@ -1,0 +1,20 @@
+Bullet_Hero_406.png
+	size: 107, 26
+common/claw_marks
+	bounds: 0, 2, 33, 24
+	offsets: 1, 1, 35, 26
+hero-407/d1
+	bounds: 35, 0, 19, 26
+	offsets: 0, 0, 19, 27
+hero-407/d2
+	bounds: 56, 0, 19, 26
+	offsets: 0, 0, 19, 27
+hero-407/d3
+	bounds: 77, 0, 19, 26
+	offsets: 0, 0, 19, 27
+hero-407/lz
+	bounds: 98, 8, 7, 8
+	offsets: 1, 1, 9, 10
+	rotate: 90
+hero-407/sszz
+	bounds: 98, 17, 9, 9

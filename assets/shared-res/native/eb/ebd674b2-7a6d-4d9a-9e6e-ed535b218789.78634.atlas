@@ -1,0 +1,81 @@
+UI_zuanshizhanlin.png
+	size: 1970, 1503
+QQQ
+	bounds: 432, 20, 119, 143
+	rotate: 90
+Q_2
+	bounds: 1858, 382, 82, 82
+c1
+	bounds: 1449, 228, 408, 349
+	offsets: 1, 1, 410, 351
+c2
+	bounds: 661, 0, 408, 349
+	offsets: 1, 1, 410, 351
+c3
+	bounds: 0, 140, 660, 750
+	offsets: 1, 1, 662, 752
+c4
+	bounds: 0, 891, 1080, 612
+	offsets: 1, 1, 1082, 614
+c5
+	bounds: 661, 350, 540, 504
+	rotate: 90
+dbx
+	bounds: 576, 62, 77, 77
+	offsets: 1, 1, 79, 79
+dbx2
+	bounds: 576, 62, 77, 77
+	offsets: 1, 1, 79, 79
+feather_circle_thumbnail
+	bounds: 1070, 210, 48, 48
+mh_tex_point_12_d1
+	bounds: 1862, 1328, 55, 55
+mx
+	bounds: 1449, 578, 540, 460
+	rotate: 90
+qscvb
+	bounds: 1081, 933, 65, 65
+	offsets: 1, 1, 67, 67
+s1
+	bounds: 1070, 259, 90, 90
+	offsets: 1, 1, 92, 92
+s2
+	bounds: 1858, 339, 42, 42
+	offsets: 1, 1, 44, 44
+s3
+	bounds: 1858, 339, 42, 42
+	offsets: 1, 1, 44, 44
+s4
+	bounds: 1858, 339, 42, 42
+	offsets: 1, 1, 44, 44
+ss1
+	bounds: 1862, 1285, 42, 42
+	offsets: 1, 1, 44, 44
+ss3
+	bounds: 1862, 1285, 42, 42
+	offsets: 1, 1, 44, 44
+start
+	bounds: 1081, 1119, 780, 384
+	offsets: 1, 1, 782, 386
+svbb
+	bounds: 1166, 38, 1080, 282
+	offsets: 1, 1, 1082, 284
+	rotate: 90
+wd
+	bounds: 1706, 41, 186, 252
+	offsets: 1, 1, 188, 254
+	rotate: 90
+wd2
+	bounds: 1449, 41, 186, 256
+	rotate: 90
+wd3
+	bounds: 1081, 999, 78, 119
+	offsets: 1, 1, 80, 121
+wd4
+	bounds: 1862, 1384, 78, 119
+	offsets: 1, 1, 80, 121
+xiaoguangyun
+	bounds: 1858, 465, 112, 112
+zyyyut
+	bounds: 0, 3, 431, 136
+	offsets: 1, 1, 433, 138
