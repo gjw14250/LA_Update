@@ -1,0 +1,67 @@
+UI_main_lv_up.png
+	size: 1191, 1032
+IMJ
+	bounds: 0, 125, 270, 347
+	rotate: 90
+QWK_00002
+	bounds: 523, 111, 119, 3
+	rotate: 90
+QWK_00003
+	bounds: 565, 87, 159, 18
+	rotate: 90
+QWK_00004
+	bounds: 530, 82, 164, 34
+	rotate: 90
+QWK_00005
+	bounds: 868, 99, 167, 49
+	rotate: 90
+QWK_00006
+	bounds: 802, 97, 169, 65
+	rotate: 90
+QWK_00007
+	bounds: 951, 0, 172, 81
+QWK_00008
+	bounds: 348, 134, 174, 96
+QWK_00009
+	bounds: 348, 231, 181, 164
+QWK_00010
+	bounds: 679, 216, 179, 122
+	rotate: 90
+QWK_00011
+	bounds: 348, 82, 168, 51
+UP_00001
+	bounds: 0, 396, 948, 19
+UP_00002
+	bounds: 0, 468, 950, 34
+UP_00003
+	bounds: 0, 503, 950, 50
+UP_00004
+	bounds: 0, 554, 950, 65
+UP_00005
+	bounds: 0, 1, 950, 80
+UP_00006
+	bounds: 0, 620, 950, 96
+UP_00007
+	bounds: 1079, 82, 950, 112
+	rotate: 90
+UP_00008
+	bounds: 951, 82, 950, 127
+	rotate: 90
+UP_00009
+	bounds: 0, 840, 950, 192
+UP_00010
+	bounds: 0, 717, 950, 122
+UP_00011
+	bounds: 0, 416, 948, 51
+eu_04
+	bounds: 802, 267, 128, 128
+hg
+	bounds: 530, 247, 148, 148
+kejixiangsu
+	bounds: 584, 120, 96, 95
+ss2
+	bounds: 681, 134, 32, 32
+trace_06_thumbnail
+	bounds: 681, 167, 48, 48
+ui_Role_hero_0010
+	bounds: 1124, 29, 50, 52

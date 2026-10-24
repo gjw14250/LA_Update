@@ -1,0 +1,14 @@
+main_page.png
+size:881,802
+grid_01
+bounds:0,402,400,400
+grid_02
+bounds:0,0,400,400
+grid_03
+bounds:402,402,400,400
+grid_04
+bounds:402,0,400,400
+light_frame_front
+bounds:804,700,102,77
+offsets:0,0,102,80
+rotate:90

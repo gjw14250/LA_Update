@@ -1,0 +1,24 @@
+get_icon.png
+	size: 809, 775
+cclight2
+	bounds: 0, 195, 582, 580
+	offsets: 11, 13, 605, 605
+get_1
+	bounds: 584, 380, 395, 163
+	rotate: 90
+get_2
+	bounds: 0, 0, 650, 193
+guangyun
+	bounds: 584, 223, 225, 155
+	offsets: 15, 50, 256, 256
+mh_tex_point_12_d1
+	bounds: 749, 728, 47, 47
+	offsets: 4, 4, 55, 55
+ss2
+	bounds: 776, 189, 32, 32
+w3
+	bounds: 652, 21, 75, 77
+	offsets: 2, 3, 80, 82
+w5
+	bounds: 652, 100, 122, 121
+	offsets: 5, 5, 132, 131

@@ -1,0 +1,179 @@
+Spine_Hero.png
+	size: 1985, 523
+7ii_01
+	bounds: 716, 6, 44, 174
+	rotate: 90
+7ii_02
+	bounds: 785, 69, 44, 174
+7ii_03
+	bounds: 857, 92, 44, 174
+7ii_04
+	bounds: 902, 92, 44, 174
+7ii_05
+	bounds: 947, 92, 44, 174
+7ii_06
+	bounds: 992, 92, 44, 174
+7ii_07
+	bounds: 1037, 92, 44, 174
+7ii_08
+	bounds: 1058, 349, 44, 174
+A_tu_dis_00004
+	bounds: 1058, 6, 170, 85
+FIRE_LINE
+	bounds: 830, 61, 26, 205
+IQ_01
+	bounds: 1616, 14, 128, 64
+	rotate: 90
+IQ_02
+	bounds: 1681, 14, 128, 64
+	rotate: 90
+IQ_03
+	bounds: 1727, 143, 128, 64
+	rotate: 90
+IQ_04
+	bounds: 1776, 395, 128, 64
+	rotate: 90
+IQ_05
+	bounds: 1746, 14, 128, 64
+	rotate: 90
+IQ_06
+	bounds: 1792, 143, 128, 64
+	rotate: 90
+IQ_07
+	bounds: 1857, 459, 128, 64
+IQ_08
+	bounds: 1857, 394, 128, 64
+MECH-C-001_0021
+	bounds: 0, 3, 190, 39
+boy2
+	bounds: 1159, 272, 77, 77
+d1_01
+	bounds: 1082, 139, 128, 128
+d1_02
+	bounds: 1211, 143, 128, 128
+d1_03
+	bounds: 1260, 395, 128, 128
+d1_04
+	bounds: 1229, 14, 128, 128
+d1_05
+	bounds: 1340, 143, 128, 128
+d1_06
+	bounds: 1389, 395, 128, 128
+d1_07
+	bounds: 1358, 14, 128, 128
+d1_08
+	bounds: 1469, 143, 128, 128
+f1
+	bounds: 1103, 379, 144, 58
+	rotate: 90
+f2
+	bounds: 1162, 379, 144, 52
+	rotate: 90
+f3
+	bounds: 1215, 381, 142, 44
+	rotate: 90
+f4
+	bounds: 571, 3, 144, 47
+fxq_01
+	bounds: 1518, 395, 128, 128
+fxq_02
+	bounds: 1487, 14, 128, 128
+fxq_03
+	bounds: 1598, 143, 128, 128
+fxq_04
+	bounds: 1647, 395, 128, 128
+jg
+	bounds: 1103, 349, 54, 29
+jiiijiao
+	bounds: 785, 52, 31, 16
+jijiao2
+	bounds: 785, 52, 31, 16
+jj
+	bounds: 191, 3, 47, 39
+jjjjj2
+	bounds: 302, 8, 31, 34
+jzzzz23
+	bounds: 394, 11, 72, 31
+mech_shadow
+	bounds: 1158, 350, 84, 28
+	offsets: 3, 2, 90, 32
+quan34
+	bounds: 801, 267, 256, 256
+round_slash_01
+	bounds: 1300, 272, 122, 64
+	rotate: 90
+round_slash_02
+	bounds: 1365, 272, 122, 64
+	rotate: 90
+round_slash_03
+	bounds: 1430, 272, 122, 64
+	rotate: 90
+round_slash_04
+	bounds: 1495, 272, 122, 64
+	rotate: 90
+round_slash_05
+	bounds: 1560, 272, 122, 64
+	rotate: 90
+round_slash_06
+	bounds: 1625, 272, 122, 64
+	rotate: 90
+round_slash_07
+	bounds: 1690, 272, 122, 64
+	rotate: 90
+round_slash_08
+	bounds: 1755, 272, 122, 64
+	rotate: 90
+rzrg_01
+	bounds: 1897, 34, 97, 85
+	offsets: 15, 20, 128, 128
+	rotate: 90
+rzrg_02
+	bounds: 1811, 33, 98, 85
+	offsets: 11, 28, 128, 128
+	rotate: 90
+rzrg_03
+	bounds: 1058, 268, 100, 80
+	offsets: 27, 35, 128, 128
+rzrg_04
+	bounds: 998, 2, 59, 89
+	offsets: 68, 29, 128, 128
+test1
+	bounds: 1243, 276, 104, 56
+	rotate: 90
+wbbbbb
+	bounds: 366, 10, 27, 32
+xe2
+	bounds: 1873, 342, 103, 51
+xe3
+	bounds: 1857, 132, 102, 51
+xe4
+	bounds: 1857, 237, 102, 52
+xe5
+	bounds: 1820, 290, 103, 52
+	rotate: 90
+xe6
+	bounds: 1857, 184, 102, 52
+xe8
+	bounds: 1873, 290, 103, 51
+xq
+	bounds: 540, 11, 31, 30
+	rotate: 90
+yj
+	bounds: 334, 8, 34, 9
+	rotate: 90
+yzzz
+	bounds: 239, 6, 62, 36
+zb
+	bounds: 344, 9, 33, 21
+	rotate: 90
+zhhua1
+	bounds: 467, 11, 72, 31
+zxc_00000_00000_01
+	bounds: 560, 51, 224, 192
+zxc_00000_00000_02
+	bounds: 560, 244, 279, 240
+	rotate: 90
+zxc_00000_00000_03
+	bounds: 0, 43, 559, 480
+zxc_00000_00000_04
+	bounds: 891, 0, 106, 91

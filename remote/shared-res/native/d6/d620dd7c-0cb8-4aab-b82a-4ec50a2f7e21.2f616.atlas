@@ -1,0 +1,49 @@
+rush_gift_bg.png
+	size: 322, 189
+car_gift_01
+	bounds: 281, 44, 19, 13
+	rotate: 90
+car_gift_02
+	bounds: 295, 44, 19, 13
+	rotate: 90
+dem_led
+	bounds: 251, 40, 23, 29
+	rotate: 90
+dem_led_01
+	bounds: 24, 0, 8, 17
+	rotate: 90
+dem_led_02
+	bounds: 0, 0, 8, 23
+	rotate: 90
+dem_led_03
+	bounds: 60, 6, 2, 17
+	rotate: 90
+gift_01
+	bounds: 293, 142, 47, 29
+	rotate: 90
+gift_02
+	bounds: 293, 94, 47, 26
+	rotate: 90
+gift_03
+	bounds: 260, 7, 47, 32
+gift_box_lights
+	bounds: 177, 4, 82, 34
+gift_box_lights_star_m
+	bounds: 293, 64, 29, 29
+gift_box_lights_star_s
+	bounds: 309, 54, 9, 9
+key_golden
+	bounds: 251, 127, 41, 62
+key_nor
+	bounds: 251, 64, 41, 62
+led_lock_01
+	bounds: 42, 0, 17, 8
+led_lock_02
+	bounds: 308, 26, 17, 10
+	rotate: 90
+rush_gift_bg_
+	bounds: 0, 9, 180, 176
+	rotate: 90
+rush_gift_bg_front
+	bounds: 177, 39, 150, 73
+	rotate: 90

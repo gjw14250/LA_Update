@@ -1,0 +1,15 @@
+Spine_Hero15.png
+size:33,23
+普通蛋/bd
+bounds:0,0,23,24
+rotate:90
+普通蛋/yj
+bounds:26,9,5,4
+rotate:90
+普通蛋/zj
+bounds:26,9,5,4
+rotate:90
+普通蛋/ys
+bounds:26,16,7,7
+普通蛋/zs
+bounds:26,16,7,7

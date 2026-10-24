@@ -1,0 +1,28 @@
+Bullet_Robot_10304.png
+	size: 327, 529
+elet_2c
+	bounds: 0, 273, 256, 256
+vfx/SD1
+	bounds: 0, 0, 90, 90
+vfx/SD2
+	bounds: 92, 0, 90, 90
+vfx/SD3
+	bounds: 181, 181, 90, 90
+vfx/SD4
+	bounds: 184, 0, 90, 90
+vfx/dianguang
+	bounds: 181, 92, 87, 87
+vfx/gF_01
+	bounds: 273, 236, 51, 51
+vfx/gF_02
+	bounds: 273, 183, 51, 51
+vfx/gF_03
+	bounds: 270, 128, 51, 51
+vfx/gF_04
+	bounds: 276, 75, 51, 51
+vfx/trace_06_thumbnail
+	bounds: 276, 25, 48, 48
+vfx/xiguang
+	bounds: 0, 92, 179, 179
+vfx/zhu
+	bounds: 258, 289, 40, 240

@@ -1,0 +1,5 @@
+UI_Shake.png
+	size: 23, 24
+EGG_HERO/images/1号突击/1_body
+	bounds: 0, 0, 23, 24
+	offsets: 1, 1, 25, 26

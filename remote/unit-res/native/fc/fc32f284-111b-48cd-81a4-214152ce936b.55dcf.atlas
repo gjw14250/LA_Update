@@ -1,0 +1,189 @@
+Spine_Hero.png
+	size: 2001, 491
+A_tu_dis_00004
+	bounds: 1531, 256, 170, 85
+	rotate: 90
+A_tu_dis_00005
+	bounds: 1866, 321, 170, 85
+	rotate: 90
+A_tu_dis_00006
+	bounds: 1170, 125, 170, 85
+A_tu_dis_00007
+	bounds: 1170, 39, 170, 85
+A_tu_dis_00008
+	bounds: 1341, 40, 170, 85
+	rotate: 90
+A_tu_dis_00009
+	bounds: 1427, 103, 170, 85
+	rotate: 90
+A_tu_dis_00010
+	bounds: 1513, 85, 170, 85
+	rotate: 90
+FIRE_LINE
+	bounds: 677, 427, 64, 512
+	rotate: 90
+FIre_blt
+	bounds: 107, 0, 22, 44
+	rotate: 90
+ICE_BLT
+	bounds: 152, 0, 22, 44
+	rotate: 90
+MECH-C-001_0021
+	bounds: 1130, 1, 190, 39
+	rotate: 90
+Q_2
+	bounds: 934, 192, 234, 234
+bk
+	bounds: 1766, 6, 33, 22
+	offsets: 1, 1, 35, 24
+black
+	bounds: 0, 123, 375, 368
+c_hy
+	bounds: 1617, 250, 36, 128
+	rotate: 90
+dbjjppg
+	bounds: 1861, 221, 25, 30
+	offsets: 1, 1, 27, 32
+	rotate: 90
+duui
+	bounds: 677, 170, 256, 256
+fire_light_01
+	bounds: 1848, 130, 57, 89
+fire_light_02
+	bounds: 374, 0, 122, 161
+	rotate: 90
+fire_light_03
+	bounds: 536, 5, 127, 185
+fire_light_04
+	bounds: 1617, 287, 124, 176
+fire_light_05
+	bounds: 819, 2, 127, 167
+fire_light_06
+	bounds: 1742, 314, 123, 149
+fire_light_07
+	bounds: 1743, 124, 104, 95
+fire_light_08
+	bounds: 1818, 25, 98, 72
+	rotate: 90
+g2
+	bounds: 1427, 23, 79, 84
+	rotate: 90
+gg1
+	bounds: 1376, 429, 11, 29
+	offsets: 4, 0, 15, 29
+	rotate: 90
+ggzzz2h
+	bounds: 1866, 247, 73, 75
+	offsets: 1, 1, 75, 77
+	rotate: 90
+gzpp
+	bounds: 1906, 143, 46, 27
+	offsets: 1, 1, 48, 29
+hjd.psd
+	bounds: 1376, 244, 29, 29
+	offsets: 1, 1, 31, 31
+hole
+	bounds: 376, 191, 300, 300
+hwi_01
+	bounds: 197, 5, 17, 88
+	rotate: 90
+hwi_02
+	bounds: 1891, 24, 57, 105
+hwi_03
+	bounds: 376, 133, 57, 149
+	rotate: 90
+hwi_04
+	bounds: 1196, 211, 49, 177
+	rotate: 90
+hwi_05
+	bounds: 1190, 441, 50, 224
+	rotate: 90
+hwi_06
+	bounds: 1415, 427, 43, 196
+	rotate: 90
+hwi_07
+	bounds: 1952, 311, 49, 180
+hwi_08
+	bounds: 1170, 5, 33, 167
+	rotate: 90
+hz23
+	bounds: 664, 179, 11, 12
+	offsets: 1, 1, 13, 14
+	rotate: 90
+impact_2
+	bounds: 664, 15, 154, 154
+kzxjjj
+	bounds: 664, 0, 29, 14
+	offsets: 1, 1, 31, 16
+zxcjjao
+	bounds: 664, 0, 29, 14
+	offsets: 1, 1, 31, 16
+l1
+	bounds: 1599, 37, 119, 88
+l2
+	bounds: 1746, 220, 114, 93
+l3
+	bounds: 1719, 29, 98, 94
+l4
+	bounds: 1599, 126, 117, 123
+mech_shadow
+	bounds: 1595, 4, 90, 32
+point
+	bounds: 1512, 2, 82, 82
+quan1
+	bounds: 0, 23, 373, 99
+	offsets: 0, 0, 373, 112
+sqqqqqq
+	bounds: 1949, 75, 67, 42
+	offsets: 1, 1, 69, 44
+	rotate: 90
+ss2
+	bounds: 1686, 4, 32, 32
+szzzsdq
+	bounds: 1906, 171, 75, 71
+	offsets: 1, 1, 77, 73
+	rotate: 90
+tggffff
+	bounds: 1942, 250, 60, 55
+	offsets: 1, 1, 62, 57
+	rotate: 90
+vvbo
+	bounds: 1196, 261, 179, 179
+ww_01
+	bounds: 286, 10, 12, 78
+	rotate: 90
+ww_02
+	bounds: 947, 0, 13, 175
+	rotate: 90
+ww_03
+	bounds: 1415, 471, 20, 239
+	rotate: 90
+ww_04
+	bounds: 1655, 464, 27, 194
+	rotate: 90
+ww_05
+	bounds: 1169, 229, 26, 197
+ww_06
+	bounds: 1717, 127, 25, 122
+ww_07
+	bounds: 0, 0, 22, 106
+	rotate: 90
+xc
+	bounds: 1949, 7, 67, 42
+	offsets: 1, 1, 69, 44
+	rotate: 90
+xuanfeng
+	bounds: 1376, 274, 154, 152
+xxx
+	bounds: 947, 14, 182, 177
+zxc
+	bounds: 1978, 217, 32, 20
+	offsets: 1, 1, 34, 22
+	rotate: 90
+zxc223
+	bounds: 934, 180, 11, 12
+	offsets: 1, 1, 13, 14
+	rotate: 90
+zxcqxfdfx
+	bounds: 1719, 1, 46, 27
+	offsets: 1, 1, 48, 29
