@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T09:17:28+00:00",
+  "generatedAt": "2026-10-25T10:34:07+00:00",
   "engine": "Cocos Creator 3.8.7",
   "platform": "web-mobile",
   "basePath": "assets/",
@@ -149,8 +149,8 @@
       "dependencies": [
         "internal"
       ],
-      "fileCount": 1788,
-      "bytes": 133985251
+      "fileCount": 1789,
+      "bytes": 134244672
     },
     "shop-res": {
       "version": "e7f61",
@@ -13877,6 +13877,11 @@
       "sha256": "51a07ab61ee49561d29734ff6ee095b0d8a47998bbe30a6f1973bf3c8b7faa25"
     },
     {
+      "path": "assets/shared-res/_startup/small.d8de476274f7.pack.bin",
+      "bytes": 259421,
+      "sha256": "d8de476274f7e317f7122e680966fb523967729af9b8a99f7c9300a6442c97ab"
+    },
+    {
       "path": "assets/shared-res/config.dcc3a.json",
       "bytes": 299453,
       "sha256": "f81be4de427005c7788c0bdc307722f56507547a3d2b029fe3e4b8c1f9d7cfc9"
@@ -27187,7 +27192,7 @@
       "sha256": "7ccb26ee2734e583c149ba43b505c238b532c95fcbd708b01b50f24e0b350d8b"
     }
   ],
-  "fileCount": 5398,
+  "fileCount": 5399,
   "imageVariants": [
     {
       "original": "assets/activity-pass-res/native/ef/efa272bd-91e5-4475-93b7-a5e08d621727.6cd70.png",
@@ -28138,5 +28143,12 @@
       "variant": "assets/unit-res/native/f6/f623474d-5f8a-4055-8326-4bbb8bb99583.7c233.e6e5377df51b.webp"
     }
   ],
-  "totalBytes": 446171938
+  "startupPack": {
+    "path": "assets/shared-res/_startup/small.d8de476274f7.pack.bin",
+    "sha256": "d8de476274f7e317f7122e680966fb523967729af9b8a99f7c9300a6442c97ab",
+    "bytes": 259421,
+    "rawBytes": 612947,
+    "files": 180
+  },
+  "totalBytes": 446431359
 }
