@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="referrer" content="no-referrer">
+  <link rel="icon" href="data:,">
+  <title>LA CDN 未命中测试</title>
+  <style>
+    :root{font:16px/1.6 system-ui,-apple-system,"Microsoft YaHei",sans-serif;color:#18283b;background:#f3f6fa;color-scheme:light}*{box-sizing:border-box}body{margin:0;padding:20px 14px}main{max-width:900px;margin:auto}h1{font-size:25px;margin:0 0 8px}p{margin:9px 0}.card{background:white;border:1px solid #dce3ec;border-radius:12px;padding:16px;margin:16px 0}.muted{font-size:14px;color:#526276}.status{font-weight:600;overflow-wrap:anywhere}button,a.action{display:inline-block;font:inherit;border:1px solid #a5b4c7;border-radius:7px;padding:10px 12px;margin:5px 6px 5px 0;background:white;color:#18283b;text-decoration:none}button.primary{background:#1768c4;color:white;border-color:#1768c4}button:disabled{opacity:.45}select{font:inherit;padding:8px;max-width:100%}progress{width:100%;height:15px}.scroll{overflow:auto}table{border-collapse:collapse;width:100%;font-size:14px}td,th{text-align:left;border-bottom:1px solid #e0e6ee;padding:9px 7px;white-space:nowrap}textarea{width:100%;height:340px;resize:vertical;font:12px/1.5 monospace;padding:10px;color:#18283b;background:#f8fafc;border:1px solid #b8c6d7}summary{cursor:pointer}#slots a{margin-right:14px;display:inline-block}#comparison{white-space:pre-line}button{touch-action:manipulation}code{overflow-wrap:anywhere}
+  </style>
+</head>
+<body>
+<main>
+  <h1>CDN 未命中测试</h1>
+  <p>手机直接下载 GitHub Pages 上的独立资源副本，读取响应中的真实 <code>X-Cache</code>。只在点击后下载测试资源。</p>
+  <p class="muted">这项只测资源下载，不包含登录、游戏初始化或 GPU 上传。不会读取或修改游戏账号。</p>
+  <section class="card">
+    <p id="plan">正在读取测试配置…</p>
+    <p><label>本次路径：<select id="slot" disabled></select></label></p>
+    <p class="muted" id="history">每套路径单独使用。首次下载是否未命中，以响应头为准。</p>
+    <button class="primary" id="first" type="button" disabled>1. 首次下载</button>
+    <button id="repeat" type="button" disabled>2. 同地址网络复测</button>
+    <button id="stop" type="button" disabled>停止</button>
+    <progress id="progress" max="1" value="0"></progress>
+    <p class="status" role="status" aria-live="polite" id="status">准备中</p>
+    <p class="muted">两轮均使用 reload 模式绕过浏览器 HTTP 缓存，保持资源 URL 相同；CDN 是否命中仍根据实际响应记录，不预设结果。请保持页面前台，并暂停其他设备的大量下载。</p>
+  </section>
+  <section class="card" id="results" hidden>
+    <p class="status" id="comparison"></p>
+    <div class="scroll"><table><thead><tr><th>资源</th><th>轮次</th><th>下载</th><th>X-Cache</th><th>网络证据</th></tr></thead><tbody id="rows"></tbody></table></div>
+    <p class="muted">MISS 仅表示响应头所报告的缓存层未命中，不保证 GitHub 所有内部缓存都为空。混合 HIT/MISS 会单独列出。网络证据不足或校验失败的请求不计作已验证 MISS。</p>
+    <button type="button" id="copy">复制报告</button><button type="button" id="export">导出 JSON</button>
+    <details><summary>查看完整报告</summary><textarea id="report" readonly aria-label="CDN 测速报告"></textarea></details>
+  </section>
+  <section class="card"><p>其他独立路径（不要同时测试）：</p><div id="slots"></div><p class="muted">已使用的路径再次打开可能命中 CDN 缓存。页面只记录本浏览器的使用情况，真实状态仍以响应头为准。</p></section>
+</main>
+<script src="benchmark.js"></script>
+</body>
+</html>

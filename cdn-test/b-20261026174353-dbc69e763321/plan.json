@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "batch": "b-20261026174353-dbc69e763321",
+  "generatedAt": "2026-10-26T17:43:55.741Z",
+  "resourceVersion": "aeb3f766441ed406ea907bb1",
+  "slots": [
+    "ios-1",
+    "android-1",
+    "ios-2",
+    "android-2",
+    "ios-3",
+    "android-3",
+    "qa"
+  ],
+  "files": [
+    {
+      "label": "开场图集 WebP",
+      "path": "assets/shared-res/native/38/3856d83e-c673-4abd-abc4-362d3b631c38.d806a.17b1d5a43931.webp",
+      "bytes": 1438046,
+      "sha256": "17b1d5a4393129320f9b05047397f07674433e19593e319386a767c4d26c4b3c"
+    },
+    {
+      "label": "发热特效图集 WebP",
+      "path": "assets/shared-res/native/df/df0b1d88-e756-40a0-9196-b8eb2694a2a2.0d0e6.270f7c6ea76a.webp",
+      "bytes": 1636594,
+      "sha256": "270f7c6ea76aa569cc25356c579b77b6b141ac1114bd07e970adcc7305b72534"
+    },
+    {
+      "label": "转轮特效图集 WebP",
+      "path": "assets/shared-res/native/ef/ef6bc51b-7000-46ac-874b-a1ab46ed8921.7a1b7.bb9240f699a5.webp",
+      "bytes": 1457398,
+      "sha256": "bb9240f699a556b01d0504c82080d0830aa38d0813d6a02e0092b913d19d6ec8"
+    },
+    {
+      "label": "180 个启动小文件的传输包",
+      "path": "assets/shared-res/_startup/small.d8de476274f7.pack.bin",
+      "bytes": 259421,
+      "sha256": "d8de476274f7e317f7122e680966fb523967729af9b8a99f7c9300a6442c97ab"
+    },
+    {
+      "label": "共享动画二进制",
+      "path": "assets/shared-res/native/d1/d1c922e2-31fb-47d5-9c95-c2d74ead849a.43e06.bin",
+      "bytes": 397292,
+      "sha256": "e0d2ca07458c59cb59bbc05efa5a1d43ee113646905bec027b155e30f71927c8"
+    },
+    {
+      "label": "角色动画二进制",
+      "path": "assets/unit-res/native/62/623105f5-38a5-425a-b0db-8a21a4e04bd4.094bc.bin",
+      "bytes": 35057,
+      "sha256": "c050815c9b370396cb3889f5d646e243351c7b1cbc24f51b0af6a6a0b5f9e5ad"
+    },
+    {
+      "label": "战斗预制体 JSON",
+      "path": "assets/battle-res/import/49/49f18498-140f-4b54-b281-369eddeba484.b0ef7.json",
+      "bytes": 54892,
+      "sha256": "c8822aa8fe7fa367fb5bcc1122c3162da92f0f9fd9ee81ea2774a7e5246bc32c"
+    },
+    {
+      "label": "战斗资源清单 JSON",
+      "path": "assets/battle-res/config.05381.json",
+      "bytes": 254456,
+      "sha256": "e90e0c49667cade835acd37074dd2df98b2fdbb8cc47a983b506c3faf5cc9cc6"
+    }
+  ],
+  "totalBytes": 5533156
+}
