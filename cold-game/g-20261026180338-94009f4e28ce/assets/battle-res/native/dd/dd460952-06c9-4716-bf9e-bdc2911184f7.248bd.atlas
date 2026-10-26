@@ -1,0 +1,72 @@
+Bullet_Hero_401.png
+	size: 1786, 243
+lj1
+	bounds: 805, 8, 105, 194
+	offsets: 11, 27, 128, 256
+	rotate: 90
+lj2
+	bounds: 1422, 13, 91, 205
+	offsets: 26, 22, 128, 256
+	rotate: 90
+lj3
+	bounds: 1001, 10, 103, 208
+	offsets: 13, 22, 128, 256
+	rotate: 90
+lj4
+	bounds: 181, 3, 110, 207
+	offsets: 6, 22, 128, 256
+	rotate: 90
+lj5
+	bounds: 1351, 129, 114, 193
+	offsets: 3, 32, 128, 256
+	rotate: 90
+lj6
+	bounds: 598, 4, 109, 205
+	offsets: 8, 25, 128, 256
+	rotate: 90
+lj7
+	bounds: 1211, 11, 102, 209
+	offsets: 14, 22, 128, 256
+	rotate: 90
+lj8
+	bounds: 390, 4, 109, 206
+	offsets: 7, 24, 128, 256
+	rotate: 90
+uf_05
+	bounds: 181, 115, 128, 128
+uf_06
+	bounds: 311, 115, 128, 128
+uf_07
+	bounds: 441, 115, 128, 128
+uf_08
+	bounds: 571, 115, 128, 128
+uf_09
+	bounds: 701, 115, 128, 128
+uf_10
+	bounds: 831, 115, 128, 128
+uf_11
+	bounds: 961, 115, 128, 128
+uf_12
+	bounds: 1091, 115, 128, 128
+uf_13
+	bounds: 1221, 115, 128, 128
+vfx/dianguang
+	bounds: 1629, 17, 87, 87
+vfx/gF_01
+	bounds: 1718, 53, 51, 51
+vfx/gF_02
+	bounds: 1718, 0, 51, 51
+vfx/gF_03
+	bounds: 0, 11, 51, 51
+vfx/gF_04
+	bounds: 53, 11, 51, 51
+vfx/trace_06_thumbnail
+	bounds: 106, 14, 48, 48
+vfx/xiguang
+	bounds: 0, 64, 179, 179
+vfx/zhu
+	bounds: 1546, 106, 40, 240
+	rotate: 90
+zxc
+	bounds: 1546, 148, 95, 214
+	rotate: 90

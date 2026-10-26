@@ -1,0 +1,73 @@
+Ui_mrth.png
+	size: 1654, 657
+Qxingguang2
+	bounds: 869, 423, 234, 234
+chuizhi_light
+	bounds: 0, 3, 38, 114
+	rotate: 90
+chuizhi_light_red
+	bounds: 115, 3, 38, 114
+	rotate: 90
+cld
+	bounds: 273, 15, 177, 113
+cld_light
+	bounds: 243, 364, 293, 293
+lizi_yellow_2
+	bounds: 230, 6, 35, 34
+	rotate: 90
+lv1
+	bounds: 243, 129, 234, 331
+	rotate: 90
+lv1_back
+	bounds: 1085, 41, 163, 213
+lv2
+	bounds: 575, 189, 233, 331
+	rotate: 90
+lv2_back
+	bounds: 1104, 443, 163, 214
+lv3
+	bounds: 537, 423, 234, 331
+	rotate: 90
+lv3_back
+	bounds: 921, 40, 163, 214
+mh_tex_lighting_05_01
+	bounds: 451, 0, 128, 128
+mh_tex_lighting_05_02
+	bounds: 1173, 314, 128, 128
+mh_tex_lighting_05_03
+	bounds: 1268, 529, 128, 128
+mh_tex_lighting_05_04
+	bounds: 1249, 185, 128, 128
+mh_tex_lighting_05_05
+	bounds: 1249, 56, 128, 128
+mh_tex_lighting_05_06
+	bounds: 1302, 400, 128, 128
+mh_tex_lighting_05_07
+	bounds: 1397, 529, 128, 128
+mh_tex_lighting_05_08
+	bounds: 1526, 529, 128, 128
+mh_tex_lighting_05_09
+	bounds: 1378, 271, 128, 128
+mh_tex_lighting_05_10
+	bounds: 1431, 400, 128, 128
+mh_tex_lighting_05_11
+	bounds: 1507, 271, 128, 128
+mh_tex_lighting_05_12
+	bounds: 1378, 142, 128, 128
+mh_tex_lighting_05_13
+	bounds: 1378, 13, 128, 128
+mh_tex_lighting_05_14
+	bounds: 1507, 142, 128, 128
+mh_tex_lighting_05_16
+	bounds: 1507, 13, 128, 128
+mrth
+	bounds: 580, 28, 340, 160
+mrthyj
+	bounds: 0, 42, 615, 242
+	rotate: 90
+s_pt
+	bounds: 243, 99, 29, 29
+s_pt_pink
+	bounds: 243, 69, 29, 29
+sky
+	bounds: 907, 255, 265, 167

@@ -1,0 +1,111 @@
+Bullet_node_5-4.png
+	size: 694, 134
+LIANZI
+	bounds: 0, 115, 19, 694
+	rotate: 90
+kofire_1_01
+	bounds: 516, 35, 32, 32
+kofire_1_02
+	bounds: 550, 35, 32, 32
+kofire_1_03
+	bounds: 584, 7, 32, 32
+kofire_1_04
+	bounds: 516, 1, 32, 32
+kofire_1_05
+	bounds: 550, 1, 32, 32
+kofire_1_06
+	bounds: 618, 34, 32, 32
+kofire_1_07
+	bounds: 652, 3, 32, 32
+kofire_1_08
+	bounds: 618, 0, 32, 32
+kofire_1_09
+	bounds: 0, 34, 32, 32
+kofire_1_10
+	bounds: 34, 34, 32, 32
+kofire_1_11
+	bounds: 68, 34, 32, 32
+kofire_1_12
+	bounds: 102, 34, 32, 32
+kofire_1_13
+	bounds: 136, 34, 32, 32
+kofire_1_14
+	bounds: 170, 34, 32, 32
+kofire_1_15
+	bounds: 204, 34, 32, 32
+kofire_1_16
+	bounds: 238, 34, 32, 32
+qz1
+	bounds: 584, 41, 26, 17
+	offsets: 1, 1, 28, 19
+	rotate: 90
+qz2
+	bounds: 657, 76, 32, 37
+	offsets: 1, 1, 34, 39
+qz3
+	bounds: 657, 37, 32, 37
+	offsets: 1, 1, 34, 39
+slm_fire_01
+	bounds: 272, 34, 32, 32
+slm_fire_02
+	bounds: 306, 34, 32, 32
+slm_fire_03
+	bounds: 340, 34, 32, 32
+slm_fire_04
+	bounds: 374, 34, 32, 32
+slm_fire_05
+	bounds: 0, 0, 32, 32
+slm_fire_06
+	bounds: 34, 0, 32, 32
+slm_fire_07
+	bounds: 68, 0, 32, 32
+slm_fire_08
+	bounds: 102, 0, 32, 32
+slm_fire_09
+	bounds: 136, 0, 32, 32
+slm_fire_10
+	bounds: 170, 0, 32, 32
+slm_fire_11
+	bounds: 204, 0, 32, 32
+slm_fire_12
+	bounds: 238, 0, 32, 32
+slm_fire_13
+	bounds: 272, 0, 32, 32
+slm_fire_14
+	bounds: 306, 0, 32, 32
+zfire_01
+	bounds: 0, 68, 45, 45
+zfire_02
+	bounds: 47, 68, 45, 45
+zfire_03
+	bounds: 423, 69, 44, 45
+	rotate: 90
+zfire_04
+	bounds: 94, 68, 45, 45
+zfire_05
+	bounds: 141, 68, 45, 45
+zfire_06
+	bounds: 188, 68, 45, 45
+zfire_07
+	bounds: 470, 69, 44, 45
+	rotate: 90
+zfire_08
+	bounds: 235, 68, 45, 45
+zfire_09
+	bounds: 517, 69, 45, 44
+zfire_10
+	bounds: 564, 69, 45, 44
+zfire_11
+	bounds: 470, 23, 44, 44
+zfire_12
+	bounds: 611, 68, 45, 44
+	rotate: 90
+zfire_13
+	bounds: 282, 68, 45, 45
+zfire_14
+	bounds: 329, 68, 45, 45
+zfire_15
+	bounds: 423, 23, 44, 45
+	rotate: 90
+zfire_16
+	bounds: 376, 68, 45, 45

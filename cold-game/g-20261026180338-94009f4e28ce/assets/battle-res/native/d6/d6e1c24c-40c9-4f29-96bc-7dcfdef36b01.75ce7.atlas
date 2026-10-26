@@ -1,0 +1,120 @@
+Spine_Monster_1010203.png
+	size: 1154, 523
+公用/mech_shadow
+	bounds: 919, 27, 86, 30
+爆弹僵尸/ceyan_huo_01
+	bounds: 827, 162, 103, 103
+爆弹僵尸/ceyan_huo_02
+	bounds: 440, 35, 101, 103
+	rotate: 90
+爆弹僵尸/ceyan_huo_03
+	bounds: 931, 162, 103, 103
+爆弹僵尸/ceyan_huo_04
+	bounds: 544, 35, 103, 101
+爆弹僵尸/ceyan_huo_05
+	bounds: 752, 35, 101, 101
+爆弹僵尸/ceyan_huo_06
+	bounds: 648, 35, 103, 101
+爆弹僵尸/ceyan_huo_07
+	bounds: 854, 58, 103, 103
+爆弹僵尸/ceyan_huo_08
+	bounds: 958, 58, 101, 103
+精英屠夫/41003_impact_0
+	bounds: 264, 360, 171, 163
+精英屠夫/Spark_Green
+	bounds: 541, 5, 29, 29
+	offsets: 1, 1, 31, 31
+精英屠夫/bbbbbbyu
+	bounds: 947, 4, 29, 22
+精英屠夫/chuizhi_light_red
+	bounds: 264, 306, 53, 160
+	rotate: 90
+精英屠夫/dbb
+	bounds: 1035, 162, 12, 12
+精英屠夫/ez_01
+	bounds: 436, 395, 128, 128
+精英屠夫/ez_02
+	bounds: 565, 395, 128, 128
+精英屠夫/ez_03
+	bounds: 694, 395, 128, 128
+精英屠夫/ez_04
+	bounds: 823, 395, 128, 128
+精英屠夫/ez_05
+	bounds: 952, 395, 128, 128
+精英屠夫/ez_06
+	bounds: 290, 177, 128, 128
+精英屠夫/ez_07
+	bounds: 182, 26, 128, 128
+精英屠夫/ez_08
+	bounds: 311, 48, 128, 128
+精英屠夫/ez_09
+	bounds: 436, 266, 128, 128
+精英屠夫/ez_10
+	bounds: 565, 266, 128, 128
+精英屠夫/ez_11
+	bounds: 694, 266, 128, 128
+精英屠夫/ez_12
+	bounds: 823, 266, 128, 128
+精英屠夫/ez_13
+	bounds: 952, 266, 128, 128
+精英屠夫/ez_14
+	bounds: 440, 137, 128, 128
+精英屠夫/ez_15
+	bounds: 569, 137, 128, 128
+精英屠夫/ez_16
+	bounds: 698, 137, 128, 128
+精英屠夫/fggg
+	bounds: 419, 272, 33, 16
+	offsets: 1, 1, 35, 18
+	rotate: 90
+精英屠夫/h1
+	bounds: 0, 298, 263, 225
+精英屠夫/h2
+	bounds: 0, 298, 263, 225
+精英屠夫/ks_2
+	bounds: 1035, 175, 90, 90
+精英屠夫/lttt
+	bounds: 360, 6, 44, 41
+精英屠夫/lttt_mh
+	bounds: 311, 0, 48, 47
+精英屠夫/lz
+	bounds: 1081, 287, 66, 44
+精英屠夫/qtttt
+	bounds: 476, 4, 32, 30
+精英屠夫/sbbbbbxc
+	bounds: 919, 0, 26, 27
+	rotate: 90
+精英屠夫/shenti
+	bounds: 854, 0, 64, 57
+精英屠夫/slash_0
+	bounds: 0, 0, 90, 117
+精英屠夫/slash_1
+	bounds: 91, 0, 90, 117
+精英屠夫/slash_2
+	bounds: 180, 155, 109, 142
+精英屠夫/slash_3
+	bounds: 1081, 428, 73, 95
+精英屠夫/slash_4
+	bounds: 1081, 332, 73, 95
+精英屠夫/sq
+	bounds: 827, 137, 24, 24
+精英屠夫/ssvvvbb
+	bounds: 509, 4, 31, 30
+精英屠夫/st4
+	bounds: 438, 2, 32, 37
+	rotate: 90
+精英屠夫/st5
+	bounds: 212, 1, 31, 24
+精英屠夫/st6
+	bounds: 182, 0, 29, 25
+精英屠夫/tou
+	bounds: 1006, 25, 45, 32
+精英屠夫/vvbo
+	bounds: 0, 118, 179, 179
+精英屠夫/youbi
+	bounds: 405, 8, 39, 32
+	rotate: 90
+精英屠夫/zatyy
+	bounds: 1111, 266, 27, 20
+精英屠夫/zhhhjjj
+	bounds: 1081, 266, 29, 20

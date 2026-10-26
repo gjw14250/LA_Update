@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "batch": "g-20261026180338-94009f4e28ce",
+  "resourceVersion": "aeb3f766441ed406ea907bb1",
+  "fileCount": 5399,
+  "totalBytes": 446431359,
+  "resourceBaseUrl": "https://gjw14250.github.io/LA_Update/cold-game/g-20261026180338-94009f4e28ce/assets/",
+  "note": "A new resource path for the real private game client. The client and accounts are not hosted here. New paths are cache-miss candidates, not proof that every GitHub cache layer is empty."
+}

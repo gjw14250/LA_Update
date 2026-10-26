@@ -1,0 +1,76 @@
+UI_tianfu.png
+	size: 1714, 1083
+bld_00000
+	bounds: 1482, 930, 162, 153
+bld_00001
+	bounds: 1235, 372, 162, 153
+bld_00002
+	bounds: 1482, 776, 162, 153
+bld_00003
+	bounds: 1482, 622, 162, 153
+bld_00004
+	bounds: 1235, 218, 162, 153
+bld_00005
+	bounds: 1482, 468, 162, 153
+bld_00006
+	bounds: 1398, 314, 162, 153
+bld_00007
+	bounds: 1398, 160, 162, 153
+bld_00008
+	bounds: 1561, 305, 162, 153
+	rotate: 90
+bld_00009
+	bounds: 1561, 142, 162, 153
+	rotate: 90
+bld_00010
+	bounds: 1116, 64, 162, 153
+bld_00011
+	bounds: 1279, 6, 162, 153
+eu_04
+	bounds: 1442, 13, 128, 128
+huge_00000
+	bounds: 0, 805, 246, 278
+huge_00001
+	bounds: 0, 526, 246, 278
+huge_00002
+	bounds: 247, 805, 246, 278
+huge_00003
+	bounds: 0, 247, 246, 278
+huge_00004
+	bounds: 247, 526, 246, 278
+huge_00005
+	bounds: 494, 805, 246, 278
+huge_00006
+	bounds: 247, 247, 246, 278
+huge_00007
+	bounds: 0, 0, 246, 278
+	rotate: 90
+huge_00008
+	bounds: 494, 526, 246, 278
+huge_00009
+	bounds: 741, 805, 246, 278
+huge_00010
+	bounds: 494, 247, 246, 278
+huge_00011
+	bounds: 279, 0, 246, 278
+	rotate: 90
+huge_00012
+	bounds: 741, 526, 246, 278
+huge_00013
+	bounds: 988, 805, 246, 278
+huge_00014
+	bounds: 741, 247, 246, 278
+huge_00015
+	bounds: 558, 0, 246, 278
+	rotate: 90
+huge_00016
+	bounds: 988, 526, 246, 278
+huge_00017
+	bounds: 1235, 805, 246, 278
+huge_00018
+	bounds: 988, 247, 246, 278
+huge_00019
+	bounds: 837, 0, 246, 278
+	rotate: 90
+huge_00020
+	bounds: 1235, 526, 246, 278

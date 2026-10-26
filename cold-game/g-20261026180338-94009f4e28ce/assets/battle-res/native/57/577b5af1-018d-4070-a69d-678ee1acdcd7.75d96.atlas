@@ -1,0 +1,14 @@
+Bullet_Hero_104.png
+	size: 164, 149
+common/shandianlink_01
+	bounds: 0, 100, 164, 23
+common/shandianlink_02
+	bounds: 0, 75, 164, 23
+common/shandianlink_03
+	bounds: 0, 50, 164, 23
+common/shandianlink_04
+	bounds: 0, 125, 164, 24
+common/shandianlink_05
+	bounds: 0, 25, 164, 23
+common/shandianlink_07
+	bounds: 0, 0, 164, 23
