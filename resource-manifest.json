@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T12:56:12+00:00",
+  "generatedAt": "2026-10-26T18:58:11+00:00",
   "engine": "Cocos Creator 3.8.7",
   "platform": "web-mobile",
   "basePath": "assets/",
@@ -191,7 +191,7 @@
   },
   "clientDependencies": {
     "main": {
-      "version": "2ffeb",
+      "version": "bc637",
       "note": "Load this bundle from the matching Web client before remote resources."
     }
   },
