@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T18:58:11+00:00",
+  "generatedAt": "2026-10-27T15:44:28+00:00",
   "engine": "Cocos Creator 3.8.7",
   "platform": "web-mobile",
   "basePath": "assets/",
@@ -150,7 +150,7 @@
         "internal"
       ],
       "fileCount": 1789,
-      "bytes": 134244672
+      "bytes": 134622305
     },
     "shop-res": {
       "version": "e7f61",
@@ -13877,9 +13877,9 @@
       "sha256": "51a07ab61ee49561d29734ff6ee095b0d8a47998bbe30a6f1973bf3c8b7faa25"
     },
     {
-      "path": "assets/shared-res/_startup/small.d8de476274f7.pack.bin",
-      "bytes": 259421,
-      "sha256": "d8de476274f7e317f7122e680966fb523967729af9b8a99f7c9300a6442c97ab"
+      "path": "assets/shared-res/_startup/small.98e1edd5ab10.pack.bin",
+      "bytes": 637054,
+      "sha256": "98e1edd5ab100186ac41fece3d3463df71d2440e843d6f2d9842a6247237f809"
     },
     {
       "path": "assets/shared-res/config.dcc3a.json",
@@ -28144,11 +28144,11 @@
     }
   ],
   "startupPack": {
-    "path": "assets/shared-res/_startup/small.d8de476274f7.pack.bin",
-    "sha256": "d8de476274f7e317f7122e680966fb523967729af9b8a99f7c9300a6442c97ab",
-    "bytes": 259421,
-    "rawBytes": 612947,
-    "files": 180
+    "path": "assets/shared-res/_startup/small.98e1edd5ab10.pack.bin",
+    "sha256": "98e1edd5ab100186ac41fece3d3463df71d2440e843d6f2d9842a6247237f809",
+    "bytes": 637054,
+    "rawBytes": 1898522,
+    "files": 209
   },
-  "totalBytes": 446431359
+  "totalBytes": 446808992
 }
