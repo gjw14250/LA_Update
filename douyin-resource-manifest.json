@@ -64,14 +64,14 @@
       "sha256": "10b8cffa7f987b1e0f2f263a41bb3935d24bf4c23e0fa1be1a1b4aa355c921f2"
     },
     {
-      "path": "remote/battle-res/config.5a00c.json",
+      "path": "remote/battle-res/config.91dab.json",
       "bytes": 239554,
-      "sha256": "376571aad675d57a0ff0086967a47a9673ac312546ebbc05c47bff17f48133fc"
+      "sha256": "a67b14ed39ede55b9817ed54c7cc2ef7b0478abcbe0fbe0c8e1367cd9c563c77"
     },
     {
-      "path": "remote/battle-res/import/07/07e64298a.1de2f.json",
-      "bytes": 4430627,
-      "sha256": "6520bfeb703cbd8f517abcbaafbee66dc4620f4008f96a11972c4ea34d06c121"
+      "path": "remote/battle-res/import/07/07e64298a.08a69.json",
+      "bytes": 4430626,
+      "sha256": "18360acbed053ce0dd8b18c72496990f31696c20134e7b4da503e9b40c70997e"
     },
     {
       "path": "remote/battle-res/native/00/004818f2-5422-495b-9451-e0c79b24095d.ad105.mp3",
@@ -114,9 +114,9 @@
       "sha256": "9d570571beededce9246b32b0d848a049495548df2f3821839730756675d993a"
     },
     {
-      "path": "remote/battle-res/native/04/04d0343c-1059-4478-9f34-54f1fff6f331.08230.m4a",
-      "bytes": 97887,
-      "sha256": "9de9628a5917053e0a24b1a8d1d71f378e88219a88820903f7d49e7c717c4b37"
+      "path": "remote/battle-res/native/04/04d0343c-1059-4478-9f34-54f1fff6f331.8ea12.mp3",
+      "bytes": 102047,
+      "sha256": "b6c98a2c688598b4921d1bd55172d80fd63d2024923494ca4920ee86f42236c5"
     },
     {
       "path": "remote/battle-res/native/05/056b639c-49d6-4932-bbe6-980a8907b403.7c181.mp3",
@@ -209,9 +209,9 @@
       "sha256": "e2d79af8e662f2d7a2e568155dcca2686aaba5de1ecccb6298dec99ffcc0baad"
     },
     {
-      "path": "remote/battle-res/native/0d/0d393866-9fc3-4126-bbc9-100102a04d2b.f0dea.m4a",
-      "bytes": 103983,
-      "sha256": "80f42aaa7f7496cfb7158570da80a776e1c06e3570282adede6865c0aaa879ad"
+      "path": "remote/battle-res/native/0d/0d393866-9fc3-4126-bbc9-100102a04d2b.85a22.mp3",
+      "bytes": 100895,
+      "sha256": "eedd738682e389360c7653316b80a85f139b97a38b88bc9f349e2c52d70c11a5"
     },
     {
       "path": "remote/battle-res/native/0d/0d60b386-60d4-45d0-b81d-c61d7ad35c1d.b2232.png",
@@ -219,9 +219,9 @@
       "sha256": "4035cac835b180f3515a667e1933b090b7fe60478ea8b87c7fd9c4c4ae746208"
     },
     {
-      "path": "remote/battle-res/native/0d/0d81555f-26be-4b13-bc9d-2dde67accf3c.5c425.m4a",
-      "bytes": 120632,
-      "sha256": "b792b13162220d60e6bf056d5e99918cf410e9fac879f169c3df03355ed20a99"
+      "path": "remote/battle-res/native/0d/0d81555f-26be-4b13-bc9d-2dde67accf3c.a19c5.mp3",
+      "bytes": 92892,
+      "sha256": "fcb0b2e7ce358192217c52c9a418c8a7f6b1c175c464acd69c196125f8197d79"
     },
     {
       "path": "remote/battle-res/native/0f/0f8b2b4b-3d88-412b-83e4-356551f49f4a.51953.bin",
@@ -289,9 +289,9 @@
       "sha256": "6245dc592c433e2aac47ad4c1d0cc50e8483a220f02691ce1782dec781ee2f97"
     },
     {
-      "path": "remote/battle-res/native/14/146cc258-de36-4ee5-af9f-43c9c3352f9d.f280a.m4a",
-      "bytes": 58720,
-      "sha256": "a46472dd164f63a312cf4ae9f2c43d698b6b7db76999b0991d5b68d45eddfc55"
+      "path": "remote/battle-res/native/14/146cc258-de36-4ee5-af9f-43c9c3352f9d.e9438.mp3",
+      "bytes": 37175,
+      "sha256": "c9e04f0ab371e53c027ae97f4c7eabc10fc85d509849b4b63186642cdf5b7f89"
     },
     {
       "path": "remote/battle-res/native/14/147d75fa-c5fd-4c12-94b9-bf9203cabf38.b0fd2.png",
@@ -354,9 +354,9 @@
       "sha256": "fd2f832c2d0a1bd0146ec484239a41c2a72257dfff97744c4df7a34c5be5363c"
     },
     {
-      "path": "remote/battle-res/native/1a/1aca0e93-f3db-4186-bc3c-92d4a2f49351.06591.m4a",
-      "bytes": 1817869,
-      "sha256": "f83089f95185901a993c949650ea6d48ae2660136d351ccd57edfc494c66a4b7"
+      "path": "remote/battle-res/native/1a/1aca0e93-f3db-4186-bc3c-92d4a2f49351.69fbb.mp3",
+      "bytes": 2548506,
+      "sha256": "35d269b83db3ba2f07fe39b0584ab0532d8b7203f8b1613345b36e77e331679d"
     },
     {
       "path": "remote/battle-res/native/1a/1adb2592-d9cb-4d3a-9c01-c0a4dc3af794.7c181.mp3",
@@ -364,9 +364,9 @@
       "sha256": "a1e9de65d3d2a35401b939b12c75ccdc17bba79faeb735dd8776152e4fd7b1ad"
     },
     {
-      "path": "remote/battle-res/native/1a/1af508e2-947a-4fd5-9d8d-1f4c06201c6b.57f8f.m4a",
-      "bytes": 77023,
-      "sha256": "669250e8fe79a004fd90c9d6dcc3706187f0cdd53551a7dddbb6e26654e38cf9"
+      "path": "remote/battle-res/native/1a/1af508e2-947a-4fd5-9d8d-1f4c06201c6b.61563.mp3",
+      "bytes": 56255,
+      "sha256": "2488838323bf6f387f37167491abad0d4d3ed8caf2054eab8fd0c21ebacc99aa"
     },
     {
       "path": "remote/battle-res/native/1b/1b37d83a-137f-461b-9b9f-6760bec56e7f.528d8.bin",
@@ -374,9 +374,9 @@
       "sha256": "2f754c4e7d0ff69ef2d5eb58cf0fb06720ab564f478202c7a2ec5420f761f1d0"
     },
     {
-      "path": "remote/battle-res/native/1c/1c340371-4e89-46d0-9839-a61c3e414c9f.6917c.m4a",
-      "bytes": 813864,
-      "sha256": "807cc44da79e8e7e04e01753d80e51b47e2979dace2074cbb72cd24f08c2d159"
+      "path": "remote/battle-res/native/1c/1c340371-4e89-46d0-9839-a61c3e414c9f.421ab.mp3",
+      "bytes": 1050238,
+      "sha256": "cf8ee39784b7a6d536aa462ed703f195e564c8bf85ba12b4882cc3f66d7b73f8"
     },
     {
       "path": "remote/battle-res/native/1d/1d21ee69-5ef8-4a87-80ae-1523406f7fdd.d6d3e.png",
@@ -549,14 +549,14 @@
       "sha256": "bf1d002cd3cf0423b5cb00076bf32d231f858249a0e477e5748e7e47ebc0b265"
     },
     {
-      "path": "remote/battle-res/native/2c/2c88b0dd-a481-43cd-b6a9-d1f306f56a26.c7ed2.m4a",
-      "bytes": 1608498,
-      "sha256": "93014dc11107197f8314f8a638dbc4ee7877588982d27c3e31cbec9290780e10"
+      "path": "remote/battle-res/native/2c/2c88b0dd-a481-43cd-b6a9-d1f306f56a26.c0595.mp3",
+      "bytes": 2125051,
+      "sha256": "6ee3ad9436d450677db26b90e716c1ea0be7353943c090f7188455757f21443a"
     },
     {
-      "path": "remote/battle-res/native/2d/2d99afd3-a027-4ab0-84e6-e840b10b702b.875d0.m4a",
-      "bytes": 1323985,
-      "sha256": "51a10eaccf0911155e5555dccb6cf99fab785d71865718410f630c0f53f7ad0d"
+      "path": "remote/battle-res/native/2d/2d99afd3-a027-4ab0-84e6-e840b10b702b.b927a.mp3",
+      "bytes": 1950859,
+      "sha256": "e35d1241e9433e73947b72b28c9827fb614304a68935848764a89b06c6eb290e"
     },
     {
       "path": "remote/battle-res/native/2d/2da28f64-6f82-4259-93cf-e2060854066c.4defb.atlas",
@@ -584,9 +584,9 @@
       "sha256": "0f1f53c9fb04849d65112e88b67468c2a39d483e3e433438e79e12732aec031c"
     },
     {
-      "path": "remote/battle-res/native/30/30677cd1-09a6-4f8d-b545-0b1fb26c14bb.56ccc.m4a",
-      "bytes": 1874848,
-      "sha256": "519c17cc72b90613f59c74aaaafa4e22354f8f1f91cb1601865ead06fe7a9b6e"
+      "path": "remote/battle-res/native/30/30677cd1-09a6-4f8d-b545-0b1fb26c14bb.e9f55.mp3",
+      "bytes": 2323894,
+      "sha256": "9100b4447815d1c2cc5df1fae119e7b07bd924c885c83c8022449071f713bba3"
     },
     {
       "path": "remote/battle-res/native/31/312d4997-c016-4dea-8dad-03e28e84dc87.ece35.mp3",
@@ -659,9 +659,9 @@
       "sha256": "2891235599cf48b29c0ac3341384800d84dfbbc65cbe8ff19ab371998dffa2c6"
     },
     {
-      "path": "remote/battle-res/native/35/35370e91-3cf5-438e-8ddf-48d380e47cc4.50ffb.m4a",
-      "bytes": 136500,
-      "sha256": "8584e4d6eb6d4263d745dcabde15bc40514964c1179811bfa8702025c9b3c6d1"
+      "path": "remote/battle-res/native/35/35370e91-3cf5-438e-8ddf-48d380e47cc4.3c07a.mp3",
+      "bytes": 137728,
+      "sha256": "1aaee1cdf989607bceb316aa4c556047b23fa2b410adb396fa9dba16032a1145"
     },
     {
       "path": "remote/battle-res/native/35/355f61a0-d711-4660-ab69-bc3ab206ed4b.cb430.mp3",
@@ -679,9 +679,9 @@
       "sha256": "655406c2d75798c8292006c811793859e35a89acccc738e79af5ed8d07086de2"
     },
     {
-      "path": "remote/battle-res/native/36/3609f01d-0890-45ba-874b-0775d76cbc43.3b227.m4a",
-      "bytes": 1585589,
-      "sha256": "95f13e34615c343116cd7b9533c5ae3ce317e1cf3019c8d7258ad86f341ebf14"
+      "path": "remote/battle-res/native/36/3609f01d-0890-45ba-874b-0775d76cbc43.44a01.mp3",
+      "bytes": 2080857,
+      "sha256": "bf03a47ae577a5db6b004ace8feced90e926492526ecff59c4a8436d87d271ef"
     },
     {
       "path": "remote/battle-res/native/36/3637729e-68cc-4ce6-8185-a04c4c8ce6e8.c108c.mp3",
@@ -829,9 +829,9 @@
       "sha256": "467f796158fd438a0fda118595e7b340842b7a764129e1d43def9fb980926646"
     },
     {
-      "path": "remote/battle-res/native/3f/3fb9531f-af5c-435d-aa74-3653e42293ea.3be28.m4a",
-      "bytes": 1822360,
-      "sha256": "b810d91659222b70480270ae366d7a98ff404849c28d6d4406efc74a6d6d7a84"
+      "path": "remote/battle-res/native/3f/3fb9531f-af5c-435d-aa74-3653e42293ea.48a65.mp3",
+      "bytes": 2285515,
+      "sha256": "a67dbb38554db852ce78b654364bfaf69db555c9bd2bc1ef6a5c00fca94e881f"
     },
     {
       "path": "remote/battle-res/native/40/4053d917-2402-45df-b7c5-5794ff426618.e5dd7.png",
@@ -904,9 +904,9 @@
       "sha256": "a734b599afb3dd943b8f282395f8f30e70741ab6c3a439f2f0ea0e18c9b37204"
     },
     {
-      "path": "remote/battle-res/native/47/473c5ba3-ce68-4bf6-93cd-f3ef36dcb8bb.da0e7.m4a",
-      "bytes": 58054,
-      "sha256": "b251fcc63d49d180b7f71e0b25d7d12fa9f65bd92aa4cbe3af1818d65c52a63d"
+      "path": "remote/battle-res/native/47/473c5ba3-ce68-4bf6-93cd-f3ef36dcb8bb.77727.mp3",
+      "bytes": 23951,
+      "sha256": "f33f0c53c94bb5a390eaeb4aede527fa1513387a7b119f1af877629388a746d4"
     },
     {
       "path": "remote/battle-res/native/48/486945f1-6cbd-4c23-ac29-849bef9aad14.b1371.mp3",
@@ -989,14 +989,14 @@
       "sha256": "f82a8b3c7aadceb31ab5731ba9bde2ea84aa0c6fc46d77f62712290ca2f90bb0"
     },
     {
-      "path": "remote/battle-res/native/4e/4e681a2a-b866-40cb-adc5-216cf48d2934.1f23a.m4a",
-      "bytes": 1555540,
-      "sha256": "147dac910202cef92c52551e561ab159ef24f4f1567328965bd5f9784598e18d"
+      "path": "remote/battle-res/native/4e/4e681a2a-b866-40cb-adc5-216cf48d2934.e3f33.mp3",
+      "bytes": 1988394,
+      "sha256": "15188e45908ed7e0e0110adc16729b873a21f421a996db4b5f7d4f41c7180bdc"
     },
     {
-      "path": "remote/battle-res/native/4e/4e88dc32-a2f5-4a43-a86e-e267775b93c1.da0e7.m4a",
-      "bytes": 58054,
-      "sha256": "b251fcc63d49d180b7f71e0b25d7d12fa9f65bd92aa4cbe3af1818d65c52a63d"
+      "path": "remote/battle-res/native/4e/4e88dc32-a2f5-4a43-a86e-e267775b93c1.77727.mp3",
+      "bytes": 23951,
+      "sha256": "f33f0c53c94bb5a390eaeb4aede527fa1513387a7b119f1af877629388a746d4"
     },
     {
       "path": "remote/battle-res/native/4e/4eddec93-0e44-42e8-95c6-7db89d6defa9.aa5ea.mp3",
@@ -1114,9 +1114,9 @@
       "sha256": "32bf5f32297c8690e14e94408496aced2b891e269578f712ad50a71d071a1cea"
     },
     {
-      "path": "remote/battle-res/native/56/56d0af54-d778-4223-9641-68f0c4cb7c38.9f2ec.m4a",
-      "bytes": 89440,
-      "sha256": "91b3ea3f376a001cbee2278d4773406592b773aa9ca61414eb9f428033cd73b4"
+      "path": "remote/battle-res/native/56/56d0af54-d778-4223-9641-68f0c4cb7c38.f1ed8.mp3",
+      "bytes": 41360,
+      "sha256": "14f04410a6141bf50e58819b163072697d8971f8986db1abf9027a2f8ecbb216"
     },
     {
       "path": "remote/battle-res/native/57/577b5af1-018d-4070-a69d-678ee1acdcd7.75d96.atlas",
@@ -1199,9 +1199,9 @@
       "sha256": "e6a5a082bde889862d399c893b4eef597b796f92cc98e8988d8fa31d77d20661"
     },
     {
-      "path": "remote/battle-res/native/5e/5ebd329d-b1ca-46fd-bdad-4904fe07d4ac.d4f40.m4a",
-      "bytes": 95512,
-      "sha256": "2fac81a71105dcdad85166d42b695bacc6fd0806d3b6823bc01768787ec94112"
+      "path": "remote/battle-res/native/5e/5ebd329d-b1ca-46fd-bdad-4904fe07d4ac.eec17.mp3",
+      "bytes": 81584,
+      "sha256": "39256b9db38ed067b413e06e73c380253bc21f93610f228bed60561fabf9be06"
     },
     {
       "path": "remote/battle-res/native/5f/5f4b7cf5-f6aa-4134-9f43-0a8b7bfa999a.560fa.mp3",
@@ -1244,14 +1244,14 @@
       "sha256": "b6bd8df1de71fe5e577e5b45516dcb7c5c9f1e60a01d0ce85565b4787c45b5b4"
     },
     {
-      "path": "remote/battle-res/native/61/61751d75-dc73-4d1b-870b-9f8d46dd8744.cc062.m4a",
-      "bytes": 105710,
-      "sha256": "09a5870c5eef920523813e664b9f5789e4bd956dc2c701a96755796f24e0277d"
+      "path": "remote/battle-res/native/61/61751d75-dc73-4d1b-870b-9f8d46dd8744.975f7.mp3",
+      "bytes": 74999,
+      "sha256": "23b17f1b7ad5d2b18762dba56ddca82731487265c09da6a888ea7adf704584c5"
     },
     {
-      "path": "remote/battle-res/native/61/61975899-6488-4662-8873-b12e3c5edb6c.a61d2.m4a",
-      "bytes": 79786,
-      "sha256": "c1066a76cde98532811284478c58640d4b28cf7674623952d88f7f1aa1958533"
+      "path": "remote/battle-res/native/61/61975899-6488-4662-8873-b12e3c5edb6c.61f44.mp3",
+      "bytes": 58295,
+      "sha256": "0c0f4b83bd55704a7a3fad3b04b7f93d6147e37a0ea454e10f88de7e8d82672d"
     },
     {
       "path": "remote/battle-res/native/61/61c7c2fd-c292-4ac1-9622-fb450267198d.4ba3f.bin",
@@ -1264,9 +1264,9 @@
       "sha256": "befb697fe13509e56eb97681b6b24c66b3cec8d5c55e4990f4bc68639852895f"
     },
     {
-      "path": "remote/battle-res/native/62/6292ea27-a7a3-45b7-9749-510fb409f322.76bb0.m4a",
-      "bytes": 1607792,
-      "sha256": "6f43d0ab900a7fc5aa6902f7599f97719dfa5f05937dbd6c6de7eea40d09f196"
+      "path": "remote/battle-res/native/62/6292ea27-a7a3-45b7-9749-510fb409f322.13942.mp3",
+      "bytes": 1950973,
+      "sha256": "22333f6e3d233f381a616f581c721b8ab51a1560559ec03a89a05962ca347b0f"
     },
     {
       "path": "remote/battle-res/native/64/6419b357-6be9-4799-a77f-d6ad8c440058.76112.mp3",
@@ -1554,9 +1554,9 @@
       "sha256": "b8b66d49e1fb9aa071562768e7fca8af65fba12048611f3079227a9f6421e6a0"
     },
     {
-      "path": "remote/battle-res/native/7b/7b5879e9-b2ee-4b4b-b11d-7b3a34dadd7e.9d78b.m4a",
-      "bytes": 1301804,
-      "sha256": "982d90eb38fbe4b397532f49e7a7b5ca6c763b0249cb2bb2e88dfc040a5ee25f"
+      "path": "remote/battle-res/native/7b/7b5879e9-b2ee-4b4b-b11d-7b3a34dadd7e.5c326.mp3",
+      "bytes": 1585651,
+      "sha256": "f1f63c093350244017b59b440de01d8f891692280da2710263943500d0aa5ee9"
     },
     {
       "path": "remote/battle-res/native/7b/7be13be0-c19a-4d4b-bfa5-08d522adf4f5.0535b.mp3",
@@ -1634,9 +1634,9 @@
       "sha256": "acfd77bdb92040e368b95f7e2a02c0657cc7bedbb62c73324fd0497b11b9fb99"
     },
     {
-      "path": "remote/battle-res/native/84/8430a3a1-b995-4a43-b3cc-c21b4ec0c735.2bfb0.m4a",
-      "bytes": 61138,
-      "sha256": "e188ae79e7dfea4cd340e456045abbc84e7045efdef0814aeee2db993823383a"
+      "path": "remote/battle-res/native/84/8430a3a1-b995-4a43-b3cc-c21b4ec0c735.a9421.mp3",
+      "bytes": 49007,
+      "sha256": "0f335959407481353770d2923c5a7bc054a8ece901b06469fd31c2b793dc4acd"
     },
     {
       "path": "remote/battle-res/native/84/843622bd-f9c4-4297-8263-7f8e92edf71e.96913.mp3",
@@ -1809,9 +1809,9 @@
       "sha256": "8e0a48dd74c6d78050cfcecce439dfb5c9f99230898af8a187a93a51391ccb4d"
     },
     {
-      "path": "remote/battle-res/native/8f/8f2e98b3-c971-46d6-a4dd-18cd8a3bdcf7.7d83a.m4a",
-      "bytes": 93051,
-      "sha256": "e2af48dd22e0e0ab147d7585eb4608a8b51bc0d2cb4c9a3377dacdd7cee955b6"
+      "path": "remote/battle-res/native/8f/8f2e98b3-c971-46d6-a4dd-18cd8a3bdcf7.3c765.mp3",
+      "bytes": 60398,
+      "sha256": "3315e553e38786fa99f90b8744e0612dfae53e34336fbe9d0abbcbe5384d5483"
     },
     {
       "path": "remote/battle-res/native/8f/8f7aff02-2377-43fa-b87c-d51a82630688.d5a9b.mp3",
@@ -1854,9 +1854,9 @@
       "sha256": "a19ebe27627101c7b6232a0bb1aa6bcbe2208f56191063531987e40f8d15da67"
     },
     {
-      "path": "remote/battle-res/native/95/954888ef-d9d1-4d72-b4fb-62137e046a11.64ab1.m4a",
-      "bytes": 110117,
-      "sha256": "a9afd969571044d75b68b2b6b00e26ace1a8995fbbcc3bed62522027add9e224"
+      "path": "remote/battle-res/native/95/954888ef-d9d1-4d72-b4fb-62137e046a11.d4dff.mp3",
+      "bytes": 116400,
+      "sha256": "f04b70653562b6cd8737858d916eddf972dde5cf8c642b06dda70641a424e97b"
     },
     {
       "path": "remote/battle-res/native/95/95a25db1-f099-4b13-83ea-bdddc396be5a.8b9c2.mp3",
@@ -1949,9 +1949,9 @@
       "sha256": "a8358493ac8c75892ef88da5461258cf203469ec920ddabb9c646edfeb710fc9"
     },
     {
-      "path": "remote/battle-res/native/9e/9e49fffd-54d6-4767-9239-218041770914.584e6.m4a",
-      "bytes": 1590720,
-      "sha256": "b2ab02249d0e7948e248fe79d9898610f2a5dc10d23425da1bf4b0d73c60013c"
+      "path": "remote/battle-res/native/9e/9e49fffd-54d6-4767-9239-218041770914.4ad2d.mp3",
+      "bytes": 2215169,
+      "sha256": "b1ebaff392e079c8ca14a8969f542d0f8c6befd4bed8a886d68dd2fbae914574"
     },
     {
       "path": "remote/battle-res/native/9e/9efea17e-e5da-4407-a064-dc90e707791d.974f2.mp3",
@@ -2054,9 +2054,9 @@
       "sha256": "53a86d5978ead4496cb998f22975b901b5cbb4bbf50bee5d9d05afd1a084e6f8"
     },
     {
-      "path": "remote/battle-res/native/a6/a6ee4299-9437-4a9d-8943-b6d18cd70396.e54c9.m4a",
-      "bytes": 2100154,
-      "sha256": "87cdfe81784c96db1fa743d6562987d23319f5be76278aee172ffea7b3f69e1b"
+      "path": "remote/battle-res/native/a6/a6ee4299-9437-4a9d-8943-b6d18cd70396.9b83b.mp3",
+      "bytes": 2704537,
+      "sha256": "15f93d63914cf297dff91722cbc944c4fe53745f04aef8769492fef1fcf864e6"
     },
     {
       "path": "remote/battle-res/native/a7/a749a664-c347-43e9-aa06-84b7f3b62adc.a2b6d.mp3",
@@ -2159,9 +2159,9 @@
       "sha256": "f9cb264d04466f41538267e3ac7413ad6073d98bd7d8e88247c7e75cf197c459"
     },
     {
-      "path": "remote/battle-res/native/b1/b12ac821-1139-487a-b017-d768b779ca5b.b2902.m4a",
-      "bytes": 2013876,
-      "sha256": "09b802f514e4e807ed91c7723f39ea84cf12ad6208af55aac8e3f68128d4574c"
+      "path": "remote/battle-res/native/b1/b12ac821-1139-487a-b017-d768b779ca5b.ea581.mp3",
+      "bytes": 2733827,
+      "sha256": "add5a3ccbe4def3c7f3fda5c2842f3066e014e3085c9292cdaf7b6976d203c79"
     },
     {
       "path": "remote/battle-res/native/b1/b1d1f221-ed90-43fb-9b59-062bfa597491.4310f.mp3",
@@ -2209,9 +2209,9 @@
       "sha256": "4566904a30765e983f3224b66f903681d353bd8bdeb7d4cfd96033552c1b1a07"
     },
     {
-      "path": "remote/battle-res/native/b5/b56dc7d9-6c43-413e-b73d-717b8f54284b.a4124.m4a",
-      "bytes": 132648,
-      "sha256": "26e391e6e7d5a3b029e553c2e5e055975d036301853644bbda8dec1402261fd0"
+      "path": "remote/battle-res/native/b5/b56dc7d9-6c43-413e-b73d-717b8f54284b.86f86.mp3",
+      "bytes": 183138,
+      "sha256": "68e16c0d708df5fbe641a905647303bb04f4bf4601df34c08a0323f157823d9c"
     },
     {
       "path": "remote/battle-res/native/b6/b69f1961-bb63-4f56-90cc-f3197f17026d.e9cb0.png",
@@ -2704,9 +2704,9 @@
       "sha256": "0472e856216c4beae208dca0a2b1468716db58b58b92d19720c5c740c84bbf0d"
     },
     {
-      "path": "remote/battle-res/native/dd/dd2a9bcf-50ea-41a8-8b0b-d6e1acf9feda.da0e7.m4a",
-      "bytes": 58054,
-      "sha256": "b251fcc63d49d180b7f71e0b25d7d12fa9f65bd92aa4cbe3af1818d65c52a63d"
+      "path": "remote/battle-res/native/dd/dd2a9bcf-50ea-41a8-8b0b-d6e1acf9feda.77727.mp3",
+      "bytes": 23951,
+      "sha256": "f33f0c53c94bb5a390eaeb4aede527fa1513387a7b119f1af877629388a746d4"
     },
     {
       "path": "remote/battle-res/native/dd/dd3e7af8-21b8-48b3-b2a5-aeecf362020d.767ef.bin",
@@ -2744,9 +2744,9 @@
       "sha256": "9d3163716668c89cbde896bab7977f947ef11c2f96a880d20fa7381cb455a6f2"
     },
     {
-      "path": "remote/battle-res/native/df/dfe0c0a4-807f-4bb3-9a8a-f2ddacfd35b7.24432.m4a",
-      "bytes": 1660022,
-      "sha256": "0b4fc5d1711436b48ddd08650c726e2f185f10fc213f9954bfce07d27a291492"
+      "path": "remote/battle-res/native/df/dfe0c0a4-807f-4bb3-9a8a-f2ddacfd35b7.9b923.mp3",
+      "bytes": 2457656,
+      "sha256": "901d8ffb4badb8c7317afe8bf4d64cdc992e40f98213e0c4fe4098dafebc4abb"
     },
     {
       "path": "remote/battle-res/native/e0/e02c2256-3de4-45ce-aff1-6595dd7f2896.38422.mp3",
@@ -2854,9 +2854,9 @@
       "sha256": "b0bf3ccfe5eec42fb44a98bb24acb71e4e6b6f4e6f823e0301b3ae510551fab3"
     },
     {
-      "path": "remote/battle-res/native/e6/e67763da-8ed5-4d4b-8680-61f489beee03.474c1.m4a",
-      "bytes": 1558325,
-      "sha256": "bbbf79806503e858896b09c781952714b5d6ece3868b6a4e3184bfe10ad2374a"
+      "path": "remote/battle-res/native/e6/e67763da-8ed5-4d4b-8680-61f489beee03.fe69e.mp3",
+      "bytes": 2143371,
+      "sha256": "bd4fe2cc4858b73842ca0dfde20607fb7c3bf0da2bc811ffb00fbe1245239bc2"
     },
     {
       "path": "remote/battle-res/native/e6/e6c4f1fa-897c-409d-9908-338a821e776f.b3ebe.png",
@@ -3044,14 +3044,14 @@
       "sha256": "10d0f98d5b913670ca192b99c9906f2db11c61aa3aced68a7f196ed9b4289d42"
     },
     {
-      "path": "remote/battle-res/native/fb/fbab2397-d27c-4b30-b51c-50618056d400.ea2ef.m4a",
-      "bytes": 108411,
-      "sha256": "a9b768045d9f706ce50c2aeef925c492f94452dcdc34c8d0d443bd5135360169"
+      "path": "remote/battle-res/native/fb/fbab2397-d27c-4b30-b51c-50618056d400.9d254.mp3",
+      "bytes": 110252,
+      "sha256": "e8bb6ace035e39c73a033741ebc8cf64a8986c4a43a74a9548dec833fe07384a"
     },
     {
-      "path": "remote/battle-res/native/fb/fbb4b448-ee61-4f84-94e4-936c04a14f18.ff715.m4a",
-      "bytes": 74630,
-      "sha256": "5ec06e0104a086c8818d52cbbb553b16139bd21f6287add82723cf8c42a8e763"
+      "path": "remote/battle-res/native/fb/fbb4b448-ee61-4f84-94e4-936c04a14f18.a373e.mp3",
+      "bytes": 69071,
+      "sha256": "267752ca950e9aeb92b3846c4f20f0ca95446a909ee13a60be2bbdf545818af3"
     },
     {
       "path": "remote/battle-res/native/fd/fd57f919-d935-41d7-b9a5-dd8d8d6d1f94.a9420.mp3",
@@ -5779,14 +5779,14 @@
       "sha256": "1a158e69df36dec72d7257ac2bac0415913cc228474e1311e8f2a64b464b4b43"
     },
     {
-      "path": "remote/shared-res/config.dce6d.json",
+      "path": "remote/shared-res/config.2746f.json",
       "bytes": 288938,
-      "sha256": "dc228a9d85e6eda1ae913253fb83073070b9f135c983454afb99eaa1d1f4ca4d"
+      "sha256": "7fa21165a05317aa71279d917434c0fc6918a418b06633e998e38128fc4a04ba"
     },
     {
-      "path": "remote/shared-res/import/01/01d9e1ca7.a967c.json",
+      "path": "remote/shared-res/import/01/01d9e1ca7.99eb1.json",
       "bytes": 1736679,
-      "sha256": "7de633a64e5a4aff19d39267d5922616fe0fc395def65ef4e16c8b0f05d24b46"
+      "sha256": "cc49be42f33c80226fada5c10b6e671d2380be349aafcbefa1257f501ce54f51"
     },
     {
       "path": "remote/shared-res/import/33/33595303-2b88-4980-93e4-0e3b5676ad09.3e62c.bin",
@@ -6219,9 +6219,9 @@
       "sha256": "0f87afa12850bc6e941e2b2d6998b53182d0a1ce20afb4e575404a8950a8859f"
     },
     {
-      "path": "remote/shared-res/native/1b/1b9f4d0b-95e9-45b5-885c-0a625317ea2b.14098.m4a",
-      "bytes": 509063,
-      "sha256": "fa389ca1020e5ba403b3621d166adb2d89ff2cc372f33204e3f2b85143617186"
+      "path": "remote/shared-res/native/1b/1b9f4d0b-95e9-45b5-885c-0a625317ea2b.90e42.mp3",
+      "bytes": 502857,
+      "sha256": "85c203ec5579d3588f7c37cca47cda6436e9591c9162668dda1e2d4a3b12ef8f"
     },
     {
       "path": "remote/shared-res/native/1c/1c3c5b65-7d6d-4e4e-a5e2-02349f94c4e3.31cd5.atlas",
@@ -6489,9 +6489,9 @@
       "sha256": "0021bce74a36cee14b345ebd5574040a029c5506f98af1af88f107bca8245078"
     },
     {
-      "path": "remote/shared-res/native/38/3856d83e-c673-4abd-abc4-362d3b631c38.2c498.png",
-      "bytes": 2275504,
-      "sha256": "30e7a13012da9b3092eb87f2f8d3ea45ffaf830c2d0a3ca092188efbce19a594"
+      "path": "remote/shared-res/native/38/3856d83e-c673-4abd-abc4-362d3b631c38.d806a.png",
+      "bytes": 1819230,
+      "sha256": "25ca6d9b17eeb2dee38ca58fc1a4f90541f43434f5734fef1781261661f3ba2e"
     },
     {
       "path": "remote/shared-res/native/38/38a0a59c-5b8d-494b-93aa-64f3a0b244d3.498ca.atlas",
@@ -6969,9 +6969,9 @@
       "sha256": "3cea7a067c3b1433b3e73cdccca780461d8af929c04a2b31cdebd0b19529419c"
     },
     {
-      "path": "remote/shared-res/native/5e/5e0c39c8-7f3c-4085-8c2d-df18975ece7e.32513.png",
-      "bytes": 2109089,
-      "sha256": "659d2edd0b7ec52b9ae746ab08d75712b73fd2e9b8b0caa577789029577ab492"
+      "path": "remote/shared-res/native/5e/5e0c39c8-7f3c-4085-8c2d-df18975ece7e.88b53.png",
+      "bytes": 2065292,
+      "sha256": "4dc5c92d0a5da117cd8f4061fbdb779c8b8f701a19c96189c00aac23c8070e31"
     },
     {
       "path": "remote/shared-res/native/5e/5e40c782-78a8-ab24-2977-263a91398aa1.49dcd.png",
@@ -7179,9 +7179,9 @@
       "sha256": "926f07327debbb4e9122b270da4c583cbd92f323d8c36cd7d90072e2b63b9b3f"
     },
     {
-      "path": "remote/shared-res/native/6e/6e665fcb-6257-43ce-98a9-fe5a940cba2d.bf4cd.m4a",
-      "bytes": 89976,
-      "sha256": "63002d2c09b90f6adf95dd113e7fa2011b118658579fa23b87c5a88fe52ccf7b"
+      "path": "remote/shared-res/native/6e/6e665fcb-6257-43ce-98a9-fe5a940cba2d.096dd.mp3",
+      "bytes": 93503,
+      "sha256": "2d1da304e571f5dc46a2fc8e04d9528d08e93d384ad5fb8791a243627f77da92"
     },
     {
       "path": "remote/shared-res/native/6e/6eb2fac0-d793-8af4-5ad7-73a99a889fdf.9aca4.png",
@@ -8629,9 +8629,9 @@
       "sha256": "69688031f80c10c00777fd698d9112477d7767c1c78f5dffb86cabf2947d985f"
     },
     {
-      "path": "remote/shared-res/native/df/df0b1d88-e756-40a0-9196-b8eb2694a2a2.38102.png",
-      "bytes": 3577147,
-      "sha256": "a7d49d4cd7e54cc6d1217407ea1135df6fda6f33f90dea90509e626a7d1f2288"
+      "path": "remote/shared-res/native/df/df0b1d88-e756-40a0-9196-b8eb2694a2a2.0d0e6.png",
+      "bytes": 2018350,
+      "sha256": "a92a0e14d2c5f842ef089f849fb447124d887faeb9e1248001fd407a1effdc7b"
     },
     {
       "path": "remote/shared-res/native/df/df9eb2ab-afad-4cb8-8181-783b80bf2c8c.e3546.bin",
@@ -8794,9 +8794,9 @@
       "sha256": "6b8a5a8671137524555442b0543eb1406abdaf15416d76a3607cdbe27321d0d7"
     },
     {
-      "path": "remote/shared-res/native/ef/ef6bc51b-7000-46ac-874b-a1ab46ed8921.24b38.png",
-      "bytes": 2757924,
-      "sha256": "0131dc127b6d70b1c62a51d7e4db6370b2cfce1865512ad67a1b83144367be61"
+      "path": "remote/shared-res/native/ef/ef6bc51b-7000-46ac-874b-a1ab46ed8921.7a1b7.png",
+      "bytes": 1891358,
+      "sha256": "9b0aa056746a133805d495e7e7bc0b04099900a76a7fc9784fec4a7812eaf56c"
     },
     {
       "path": "remote/shared-res/native/ef/ef8ceb86-4d8a-e654-4a92-8381b0a5b5c9.1dbb7.png",
@@ -10814,5 +10814,5 @@
       "sha256": "7ccb26ee2734e583c149ba43b505c238b532c95fcbd708b01b50f24e0b350d8b"
     }
   ],
-  "totalBytes": 360893202
+  "totalBytes": 365598339
 }
