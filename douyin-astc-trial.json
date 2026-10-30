@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "format": "ASTC 4x4",
+  "files": [
+    {
+      "path": "remote/battle-res/native/ef/efefd722-c725-47b8-93b6-d3651f6efa61.33996.astc4x4.87c4b788f19a.astc",
+      "bytes": 894608,
+      "sha256": "87c4b788f19acbe33e20149647726916877d2d3697e285bded4e43533587f361"
+    },
+    {
+      "path": "remote/shared-res/native/38/3856d83e-c673-4abd-abc4-362d3b631c38.d806a.astc4x4.5d11fae702cb.astc",
+      "bytes": 2120496,
+      "sha256": "5d11fae702cb2a3acfd95529beda4c277c223bc8a1db01dcf6ba2dc73ec16e9c"
+    },
+    {
+      "path": "remote/shared-res/native/df/df0b1d88-e756-40a0-9196-b8eb2694a2a2.0d0e6.astc4x4.f06abcc5e3ff.astc",
+      "bytes": 1551760,
+      "sha256": "f06abcc5e3fffc069978c6afe9f2d359026ace5277f45c2499fcb44804eacbe4"
+    },
+    {
+      "path": "remote/shared-res/native/ef/ef6bc51b-7000-46ac-874b-a1ab46ed8921.7a1b7.astc4x4.9e33f0cc27a0.astc",
+      "bytes": 2164336,
+      "sha256": "9e33f0cc27a0d13fc4e49522e96c8e0f143246c947475d98527acd58b04efe9d"
+    }
+  ]
+}
